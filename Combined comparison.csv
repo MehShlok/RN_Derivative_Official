@@ -1,0 +1,1691 @@
+Dataset,Feature dimensionality,Time-series (Yes/No),Total number of anomalies,Anomalous percentage,Total samples,algorithm,auroc,f1,recall,precision,AnomalyTrain,AnomalyTest,Supervised/Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,LOF,0.63,0.16,0.34,0.1,-,-,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,LOF,0.63,0.3,0.35,0.26,-,-,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,LOF,0.68,0.18,0.45,0.11,-,-,Unsupervised
+breastw,Multivariate,No,239,34.99,683,LOF,0.57,0.56,1,0.39,-,-,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,LOF,0.48,0.06,0.06,0.07,-,-,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,LOF,0.55,0.18,0.18,0.17,-,-,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,LOF,0.53,0.2,0.15,0.32,-,-,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,LOF,0.47,0.02,0.05,0.01,-,-,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,LOF,0.56,0.04,0.22,0.02,-,-,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,LOF,0.63,0.26,0.33,0.21,-,-,Unsupervised
+fault,Multivariate,No,673,34.67,1941,LOF,0.5,0.15,0.09,0.32,-,-,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,LOF,0.51,0,0.11,0,-,-,Unsupervised
+glass,Multivariate,No,9,4.21,214,LOF,0.68,0.26,0.44,0.18,-,-,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,LOF,0.53,0.19,0.15,0.25,-,-,Unsupervised
+http,Multivariate,No,2211,0.39,567498,LOF,0.47,0,0.03,0,-,-,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,LOF,0.6,0.33,0.26,0.48,-,-,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,LOF,0.63,0.41,0.26,0.94,-,-,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,LOF,0.53,0.2,0.15,0.31,-,-,Unsupervised
+letter,Multivariate,No,100,6.25,1600,LOF,0.75,0.57,0.57,0.36,-,-,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,LOF,0.88,0.48,0.83,0.33,-,-,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,LOF,0.56,0.27,0.18,0.62,-,-,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,LOF,0.64,0.14,0.37,0.08,-,-,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,LOF,0.58,0.24,0.25,0.23,-,-,Unsupervised
+musk,Multivariate,No,97,3.17,3062,LOF,0.47,0.02,0.04,0.01,-,-,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,LOF,0.58,0.12,0.26,0.07,-,-,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,LOF,0.67,0.4,0.41,0.39,-,-,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,LOF,0.53,0.06,0.17,0.04,-,-,Unsupervised
+Pima,Multivariate,No,268,34.9,768,LOF,0.49,0.14,0.09,0.32,-,-,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,LOF,0.54,0.23,0.15,0.48,-,-,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,LOF,0.59,0.28,0.28,0.03,-,-,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,LOF,0.43,0,0,0,-,-,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,LOF,0.51,0.16,0.12,0.24,-,-,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,LOF,0.8,0,0.7,0,-,-,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,LOF,0.48,0.13,0.08,0.32,-,-,Unsupervised
+speech,Multivariate,No,61,1.65,3686,LOF,0.52,0.04,0.15,0.02,-,-,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,LOF,0.53,0.15,0.16,0.15,-,-,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,LOF,0.65,0.15,0.39,0.1,-,-,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,LOF,0.46,0.04,0.03,0.04,-,-,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,LOF,0.84,0.39,0.76,0.26,-,-,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,LOF,0.61,0.14,0.31,0.09,-,-,Unsupervised
+WBC,Multivariate,No,10,4.48,223,LOF,0.55,0.12,0.2,0.09,-,-,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,LOF,0.96,0.43,1,0.27,-,-,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,LOF,0.55,0.14,0.19,0.1,-,-,Unsupervised
+wine,Multivariate,No,10,7.75,129,LOF,0.99,0.87,1,0.77,-,-,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,LOF,0.46,0.06,0.04,0.1,-,-,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,LOF,0.48,0.12,0.08,0.27,-,-,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,LOF,0.59,0.18,0.27,0.14,-,-,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,LOF,0.6,0.2,0.3,0.15,-,-,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,LOF,0.59,0.18,0.27,0.13,-,-,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,LOF,0.7,0.56,0.41,0.87,-,-,Unsupervised
+SVHN,Multivariate,No,260,5,5208,LOF,0.56,0.15,0.22,0.11,-,-,Unsupervised
+Agnews,Multivariate,No,500,5,10000,LOF,0.56,0.15,0.22,0.11,-,-,Unsupervised
+Amazon,Multivariate,No,500,5,10000,LOF,0.51,0.08,0.12,0.06,-,-,Unsupervised
+Imdb,Multivariate,No,500,5,10000,LOF,0.49,0.06,0.08,0.04,-,-,Unsupervised
+Yelp,Multivariate,No,500,5,10000,LOF,0.55,0.13,0.2,0.1,-,-,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,LOF,0.64,0.25,0.37,0.18,-,-,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,LOF,0.65,0.26,0.38,0.2,-,-,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,LOF,0.5,0.09,0.09,0.08,-,-,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,LOF,0.51,0.08,0.13,0.06,-,-,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,LOF,0.51,0.06,0.12,0.04,-,-,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,LOF,0.5,0.17,0.1,0.45,-,-,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,LOF,0.49,0.03,0.08,0.02,-,-,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,LOF,0.51,0.09,0.12,0.07,-,-,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,LOF,0.85,0.33,0.78,0.21,-,-,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,LOF,0.48,0.01,0.06,0.01,-,-,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,LOF,0.88,0.48,0.83,0.33,-,-,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,LOF,0.8,0.47,0.67,0.37,-,-,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,AutoEncoders,0.51,0.06,0.12,0.05,0,1508,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,AutoEncoders,0.55,0.17,0.2,0.15,0,534,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,AutoEncoders,0.53,0.26,0.19,0.2,0,2329,Unsupervised
+breastw,Multivariate,No,239,34.99,683,AutoEncoders,0.63,0.26,0.13,0.27,0,239,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,AutoEncoders,0.55,0.2,0.19,0.22,0,4640,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,AutoEncoders,0.64,0.35,0.36,0.34,0,176,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,AutoEncoders,0.55,0.19,0.13,0.31,0,466,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,AutoEncoders,0.5,0.04,0.1,0.02,0,4547,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,AutoEncoders,0.91,0.17,0.37,0.09,0,2747,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,AutoEncoders,0.6,0.19,0.24,0.14,0,36710,Unsupervised
+fault,Multivariate,No,673,34.67,1941,AutoEncoders,0.68,0.38,0.24,0.19,0,673,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,AutoEncoders,0.89,0.03,0.88,0.02,0,492,Unsupervised
+glass,Multivariate,No,9,4.21,214,AutoEncoders,0.56,0.13,0.22,0.09,0,9,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,AutoEncoders,0.49,0.1,0.08,0.13,0,13,Unsupervised
+http,Multivariate,No,2211,0.39,567498,AutoEncoders,0.95,0.07,1,0.04,0,2211,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,AutoEncoders,0.61,0.37,0.29,0.53,0,368,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,AutoEncoders,0.53,0.22,0.14,0.5,0,126,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,AutoEncoders,0.5,0.13,0.09,0.19,0,1333,Unsupervised
+letter,Multivariate,No,100,6.25,1600,AutoEncoders,0.49,0.06,0.08,0.05,0,100,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,AutoEncoders,0.62,0.18,0.33,0.13,0,6,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,AutoEncoders,0.54,0.24,0.16,0.55,0,260,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,AutoEncoders,0.58,0.09,0.42,0.05,0,260,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,AutoEncoders,0.56,0.2,0.21,0.19,0,700,Unsupervised
+musk,Multivariate,No,97,3.17,3062,AutoEncoders,0.72,0.25,0.53,0.17,0,97,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,AutoEncoders,0.52,0.07,0.15,0.04,0,150,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,AutoEncoders,0.61,0.3,0.3,0.29,0,510,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,AutoEncoders,0.74,0.21,0.56,0.13,0,156,Unsupervised
+Pima,Multivariate,No,268,34.9,768,AutoEncoders,0.5,0.16,0.1,0.35,0,268,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,AutoEncoders,0.52,0.19,0.12,0.39,0,2036,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,AutoEncoders,0.46,0,0.01,0,0,71,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,AutoEncoders,0.8,0.54,0.65,0.47,0,3511,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,AutoEncoders,0.46,0.05,0.04,0.08,0,50859,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,AutoEncoders,0.8,0,0.7,0,0,30,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,AutoEncoders,0.5,0.16,0.1,0.41,0,1679,Unsupervised
+speech,Multivariate,No,61,1.65,3686,AutoEncoders,0.54,0.05,0.18,0.03,0,61,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,AutoEncoders,0.53,0.14,0.15,0.14,0,31,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,AutoEncoders,0.76,0.24,0.62,0.15,0,93,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,AutoEncoders,0.44,0,0,0,0,30,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,AutoEncoders,0.62,0.17,0.33,0.11,0,50,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,AutoEncoders,0.64,0.17,0.37,0.11,0,100,Unsupervised
+WBC,Multivariate,No,10,4.48,223,AutoEncoders,0.91,0.53,0.9,0.38,0,10,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,AutoEncoders,0.96,0.42,1,0.26,0,10,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,AutoEncoders,0.5,0.07,0.1,0.05,0,257,Unsupervised
+wine,Multivariate,No,10,7.75,129,AutoEncoders,0.82,0.58,0.7,0.5,0,10,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,AutoEncoders,0.5,0.15,0.11,0.25,0,47,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,AutoEncoders,0.5,0.16,0.1,0.35,0,507,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,AutoEncoders,0.52,0.09,0.14,0.07,0,263,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,AutoEncoders,0.58,0.16,0.24,0.12,0,315,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,AutoEncoders,0.49,0.06,0.08,0.04,0,500,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,AutoEncoders,0.59,0.32,0.24,0.5,0,63,Unsupervised
+SVHN,Multivariate,No,260,5,5208,AutoEncoders,0.49,0.06,0.08,0.04,0,260,Unsupervised
+Agnews,Multivariate,No,500,5,10000,AutoEncoders,0.5,0.06,0.09,0.05,0,500,Unsupervised
+Amazon,Multivariate,No,500,5,10000,AutoEncoders,0.5,0.07,0.1,0.05,0,500,Unsupervised
+Imdb,Multivariate,No,500,5,10000,AutoEncoders,0.5,0.07,0.1,0.05,0,500,Unsupervised
+Yelp,Multivariate,No,500,5,10000,AutoEncoders,0.48,0.06,0.07,0.03,0,500,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,AutoEncoders,0.51,0.09,0.11,0.05,0,155,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,AutoEncoders,0.54,0.12,0.17,0.09,0,219,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,AutoEncoders,0.53,0.14,0.15,0.13,0,4466,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,AutoEncoders,0.55,0.13,0.2,0.1,0,4216,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,AutoEncoders,0.64,0.2,0.38,0.13,0,3075,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,AutoEncoders,0.43,0.03,0.02,0.08,0,37559,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,AutoEncoders,0.63,0.15,0.36,0.09,0,2167,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,AutoEncoders,0.78,0.46,0.63,0.37,0,3138,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,AutoEncoders,0.83,0.31,0.78,0.2,0,9,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,AutoEncoders,0.59,0.06,0.24,0.03,0,17,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,AutoEncoders,0.62,0.18,0.33,0.12,0,6,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,AutoEncoders,0.71,0.35,0.48,0.27,0,21,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,DAGMM,0.51,0.05,0.11,0.03,0,1508,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,DAGMM,0.62,0.28,0.32,0.24,0,534,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,DAGMM,0.89,0.34,0.87,0.21,0,2329,Unsupervised
+breastw,Multivariate,No,239,34.99,683,DAGMM,0.64,0.45,0.29,1,0,239,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,DAGMM,0.59,0.28,0.27,0.3,0,4640,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,DAGMM,0.52,0.13,0.14,0.13,0,176,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,DAGMM,0.54,0.22,0.16,0.36,0,466,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,DAGMM,0.6,0.11,0.29,0.07,0,4547,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,DAGMM,0.57,0.04,0.24,0.02,0,2747,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,DAGMM,0.9,0.63,0.86,0.5,0,36710,Unsupervised
+fault,Multivariate,No,673,34.67,1941,DAGMM,0.5,0.16,0.1,0.36,0,673,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,DAGMM,0.77,0.02,0.62,0.01,0,492,Unsupervised
+glass,Multivariate,No,9,4.21,214,DAGMM,0.5,0,0,0,0,9,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,DAGMM,0.53,0.19,0.15,0.25,0,13,Unsupervised
+http,Multivariate,No,2211,0.39,567498,DAGMM,0.95,0.07,1,0.04,0,2211,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,DAGMM,0.5,0.14,0.11,0.2,0,368,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,DAGMM,0.57,0.31,0.2,0.69,0,126,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,DAGMM,0.49,0.12,0.09,0.18,0,1333,Unsupervised
+letter,Multivariate,No,100,6.25,1600,DAGMM,0.49,0.07,0.09,0.06,0,100,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,DAGMM,0.53,0.1,0.17,0.07,0,6,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,DAGMM,0.55,0.25,0.16,0.56,0,260,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,DAGMM,0.78,0.24,0.64,0.15,0,260,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,DAGMM,0.54,0.17,0.18,0.16,0,700,Unsupervised
+musk,Multivariate,No,97,3.17,3062,DAGMM,0.96,0.48,1,0.32,0,97,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,DAGMM,0.53,0.07,0.16,0.05,0,150,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,DAGMM,0.6,0.28,0.29,0.27,0,510,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,DAGMM,0.46,0,0.01,0,0,156,Unsupervised
+Pima,Multivariate,No,268,34.9,768,DAGMM,0.52,0.2,0.13,0.45,0,268,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,DAGMM,0.6,0.37,0.24,0.77,0,2036,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,DAGMM,0.78,0.14,0.65,0.08,0,71,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,DAGMM,0.83,0.6,0.72,0.51,0,3511,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,DAGMM,0.61,0.37,0.28,0.57,0,50859,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,DAGMM,0.88,0.01,0.87,0,0,30,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,DAGMM,0.55,0.25,0.16,0.63,0,1679,Unsupervised
+speech,Multivariate,No,61,1.65,3686,DAGMM,0.47,0.01,0.03,0.01,0,61,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,DAGMM,0.46,0.03,0.03,0.03,0,31,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,DAGMM,0.81,0.28,0.71,0.17,0,93,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,DAGMM,0.48,0.07,0.07,0.08,0,30,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,DAGMM,0.46,0.01,0.02,0.01,0,50,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,DAGMM,0.61,0.14,0.32,0.09,0,100,Unsupervised
+WBC,Multivariate,No,10,4.48,223,DAGMM,0.86,0.48,0.8,0.35,0,10,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,DAGMM,0.91,0.38,0.9,0.24,0,10,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,DAGMM,0.54,0.12,0.18,0.1,0,257,Unsupervised
+wine,Multivariate,No,10,7.75,129,DAGMM,0.66,0.35,0.4,0.31,0,10,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,DAGMM,0.48,0.09,0.06,0.15,0,47,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,DAGMM,0.5,0.16,0.11,0.36,0,507,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,DAGMM,0.5,0.07,0.1,0.05,0,263,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,DAGMM,0.56,0.15,0.22,0.11,0,315,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,DAGMM,0.53,0.1,0.15,0.08,0,500,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,DAGMM,0.56,0.26,0.19,0.4,0,63,Unsupervised
+SVHN,Multivariate,No,260,5,5208,DAGMM,0.5,0.06,0.1,0.05,0,260,Unsupervised
+Agnews,Multivariate,No,500,5,10000,DAGMM,0.51,0.08,0.12,0.06,0,500,Unsupervised
+Amazon,Multivariate,No,500,5,10000,DAGMM,0.5,0.07,0.11,0.05,0,500,Unsupervised
+Imdb,Multivariate,No,500,5,10000,DAGMM,0.5,0.07,0.1,0.05,0,500,Unsupervised
+Yelp,Multivariate,No,500,5,10000,DAGMM,0.51,0.07,0.11,0.06,0,500,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,DAGMM,0.52,0.09,0.13,0.06,0,155,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,DAGMM,0.64,0.25,0.36,0.19,0,219,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,DAGMM,0.76,0.53,0.57,0.5,0,4466,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,DAGMM,0.57,0.15,0.23,0.11,0,4216,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,DAGMM,0.79,0.34,0.65,0.23,0,3075,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,DAGMM,0.61,0.37,0.23,0.99,0,37559,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,DAGMM,0.65,0.15,0.38,0.1,0,2167,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,DAGMM,0.68,0.33,0.44,0.26,0,3138,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,DAGMM,0.85,0.33,0.78,0.22,0,9,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,DAGMM,0.48,0.01,0.06,0.01,0,17,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,DAGMM,0.45,0,0,0,0,6,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,DAGMM,0.75,0.41,0.57,0.32,0,21,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,Elliptic Envelope,0.49,0.04,0.09,0.03,0,1508,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,Elliptic Envelope,0.73,0.45,0.52,0.4,0,534,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,Elliptic Envelope,0.88,0.33,0.84,0.21,0,2329,Unsupervised
+breastw,Multivariate,No,239,34.99,683,Elliptic Envelope,0.66,0.49,0.32,1,0,239,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,Elliptic Envelope,0.62,0.32,0.31,0.34,0,4640,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,Elliptic Envelope,0.68,0.41,0.42,0.4,0,176,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,Elliptic Envelope,0.57,0.29,0.21,0.48,0,466,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,Elliptic Envelope,0.64,0.14,0.38,0.09,0,4547,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,Elliptic Envelope,0.52,0.02,0.13,0.01,0,2747,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,Elliptic Envelope,0.62,0.25,0.33,0.2,0,36710,Unsupervised
+fault,Multivariate,No,673,34.67,1941,Elliptic Envelope,0.48,0.11,0.07,0.24,0,673,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,Elliptic Envelope,0.88,0.04,0.85,0.02,0,492,Unsupervised
+glass,Multivariate,No,9,4.21,214,Elliptic Envelope,0.61,0.18,0.33,0.12,0,9,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,Elliptic Envelope,0.59,0.32,0.31,0.33,0,13,Unsupervised
+http,Multivariate,No,2211,0.39,567498,Elliptic Envelope,0.95,0.07,1,0.04,0,2211,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,Elliptic Envelope,0.66,0.46,0.36,0.63,0,368,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,Elliptic Envelope,0.62,0.39,0.25,1,0,126,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,Elliptic Envelope,0.45,0.02,0.02,0.04,0,1333,Unsupervised
+letter,Multivariate,No,100,6.25,1600,Elliptic Envelope,0.6,0.22,0.28,0.17,0,100,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,Elliptic Envelope,0.89,0.53,0.83,0.38,0,6,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,Elliptic Envelope,0.62,0.4,0.26,0.91,0,260,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,Elliptic Envelope,0.52,0.05,0.13,0.03,0,260,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,Elliptic Envelope,0.54,0.17,0.18,0.16,0,700,Unsupervised
+musk,Multivariate,No,97,3.17,3062,Elliptic Envelope,0.96,0.47,1,0.31,0,97,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,Elliptic Envelope,0.45,0,0.01,0,0,150,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,Elliptic Envelope,0.78,0.58,0.61,0.56,0,510,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,Elliptic Envelope,0.59,0.11,0.28,0.06,0,156,Unsupervised
+Pima,Multivariate,No,268,34.9,768,Elliptic Envelope,0.54,0.24,0.16,0.51,0,268,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,Elliptic Envelope,0.64,0.45,0.29,0.96,0,2036,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,Elliptic Envelope,0.95,0.21,1,0.12,0,71,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,Elliptic Envelope,0.66,0.48,0.31,1,0,3511,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,Elliptic Envelope,0.53,0.19,0.14,0.3,0,50859,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,Elliptic Envelope,0.83,0.01,0.77,0,0,30,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,Elliptic Envelope,0.48,0.12,0.07,0.31,0,1679,Unsupervised
+speech,Multivariate,No,61,1.65,3686,Elliptic Envelope,0.51,0.03,0.11,0.02,0,61,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,Elliptic Envelope,0.51,0.12,0.13,0.11,0,31,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,Elliptic Envelope,0.94,0.37,0.96,0.23,0,93,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,Elliptic Envelope,0.44,0,0,0,0,30,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,Elliptic Envelope,0.52,0.07,0.14,0.05,0,50,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,Elliptic Envelope,0.53,0.07,0.16,0.04,0,100,Unsupervised
+WBC,Multivariate,No,10,4.48,223,Elliptic Envelope,0.96,0.56,1,0.38,0,10,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,Elliptic Envelope,0.91,0.4,0.9,0.26,0,10,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,Elliptic Envelope,0.55,0.13,0.2,0.1,0,257,Unsupervised
+wine,Multivariate,No,10,7.75,129,Elliptic Envelope,0.67,0.38,0.4,0.36,0,10,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,Elliptic Envelope,0.48,0.09,0.06,0.15,0,47,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,Elliptic Envelope,0.48,0.12,0.08,0.26,0,507,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,Elliptic Envelope,0.59,0.18,0.26,0.13,0,263,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,Elliptic Envelope,0.64,0.24,0.36,0.18,0,315,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,Elliptic Envelope,0.53,0.1,0.15,0.08,0,500,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,Elliptic Envelope,0.39,0.15,0.21,0.12,0,63,Unsupervised
+SVHN,Multivariate,No,260,5,5208,Elliptic Envelope,0.55,0.13,0.2,0.09,0,260,Unsupervised
+Agnews,Multivariate,No,500,5,10000,Elliptic Envelope,0.52,0.09,0.14,0.07,0,500,Unsupervised
+Amazon,Multivariate,No,500,5,10000,Elliptic Envelope,0.51,0.08,0.12,0.06,0,500,Unsupervised
+Imdb,Multivariate,No,500,5,10000,Elliptic Envelope,0.48,0.04,0.06,0.03,0,500,Unsupervised
+Yelp,Multivariate,No,500,5,10000,Elliptic Envelope,0.52,0.1,0.14,0.07,0,500,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,Elliptic Envelope,0.55,0.13,0.19,0.1,0,155,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,Elliptic Envelope,0.71,0.34,0.5,0.26,0,219,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,Elliptic Envelope,0.56,0.2,0.21,0.19,0,4466,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,Elliptic Envelope,0.59,0.18,0.27,0.13,0,4216,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,Elliptic Envelope,0.57,0.13,0.24,0.09,0,3075,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,Elliptic Envelope,0.47,0.1,0.06,0.27,0,37559,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,Elliptic Envelope,0.71,0.2,0.51,0.12,0,2167,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,Elliptic Envelope,0.68,0.32,0.44,0.26,0,3138,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,Elliptic Envelope,0.85,0.21,0.78,0.21,0,9,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,Elliptic Envelope,0.51,0.03,0.12,0.01,0,17,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,Elliptic Envelope,0.78,0.32,0.67,0.21,0,6,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,Elliptic Envelope,0.8,0.46,0.67,0.35,0,21,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,DevNet,0.49,0.04,0.08,0.03,693,815,Supervised
+annthyroid,Multivariate,No,534,7.42,7200,DevNet,0.54,0.14,0.17,0.12,101,433,Supervised
+backdoor,Multivariate,No,2329,2.44,95329,DevNet,0.91,0.35,0.91,0.21,1335,994,Supervised
+breastw,Multivariate,No,239,34.99,683,DevNet,0.95,0.92,1,0.86,10,229,Supervised
+campaign,Multivariate,No,4640,11.27,41188,DevNet,0.72,0.47,0.52,0.42,577,4063,Supervised
+cardio,Multivariate,No,176,9.61,1831,DevNet,0.85,0.61,0.79,0.5,26,150,Supervised
+Cardiotocography,Multivariate,No,466,22.04,2114,DevNet,0.67,0.29,0.23,0.4,30,436,Supervised
+celeba,Multivariate,No,4547,2.24,202599,DevNet,0.9,0.32,0.88,0.19,2836,1711,Supervised
+cover,Multivariate,No,2747,0.96,286048,DevNet,0.94,0.17,0.97,0.1,27,2720,Supervised
+donors,Multivariate,No,36710,5.93,619326,DevNet,0.96,0.61,1,0.44,8671,28039,Supervised
+fault,Multivariate,No,673,34.67,1941,DevNet,0.5,0.16,0.11,0.36,27,646,Supervised
+fraud,Multivariate,No,492,0.17,284807,DevNet,0.91,0.03,0.92,0.02,5,487,Supervised
+glass,Multivariate,No,9,4.21,214,DevNet,0.5,0,0,0,3,6,Supervised
+Hepatitis,Multivariate,No,13,16.25,80,DevNet,0.53,0.19,0.15,0.25,1,12,Supervised
+http,Multivariate,No,2211,0.39,567498,DevNet,0.95,0.08,1,0.04,22,2189,Supervised
+InternetAds,Multivariate,No,368,18.72,1966,DevNet,0.54,0.22,0.17,0.32,28,340,Supervised
+Ionosphere,Multivariate,No,126,35.9,351,DevNet,0.57,0.35,0.25,0.58,5,121,Supervised
+landsat,Multivariate,No,1333,20.71,6435,DevNet,0.51,0.16,0.12,0.24,90,1243,Supervised
+letter,Multivariate,No,100,6.25,1600,DevNet,0.51,0.09,0.12,0.07,22,78,Supervised
+Lymphography,Multivariate,No,6,4.05,148,DevNet,0.61,0.17,0.33,0.11,2,4,Supervised
+magic.gamma,Multivariate,No,260,1.37,19020,DevNet,0.74,0.66,0.57,0.78,3,257,Supervised
+mammography,Multivariate,No,260,2.32,11183,DevNet,0.86,0.3,0.8,0.19,157,103,Supervised
+mnist,Multivariate,No,700,9.21,7603,DevNet,0.82,0.56,0.71,0.47,106,594,Supervised
+musk,Multivariate,No,97,3.17,3062,DevNet,0.96,0.45,1,0.29,43,54,Supervised
+optdigits,Multivariate,No,150,2.88,5216,DevNet,0.96,0.42,0.99,0.26,73,77,Supervised
+PageBlocks,Multivariate,No,510,9.46,5393,DevNet,0.55,0.18,0.2,0.17,76,434,Supervised
+pendigits,Multivariate,No,156,2.27,6870,DevNet,0.95,0.37,0.98,0.23,96,60,Supervised
+Pima,Multivariate,No,268,34.9,768,DevNet,0.64,0.47,0.36,0.68,11,257,Supervised
+satellite,Multivariate,No,2036,31.64,6435,DevNet,0.61,0.41,0.31,0.59,90,1946,Supervised
+satimage-2,Multivariate,No,71,1.22,5803,DevNet,0.94,0.22,0.97,0.12,2,69,Supervised
+shuttle,Multivariate,No,3511,7.15,49097,DevNet,0.95,0.64,0.98,0.48,687,2824,Supervised
+skin,Multivariate,No,50859,20.75,245057,DevNet,0.96,0.86,1,0.76,3431,47428,Supervised
+smtp,Multivariate,No,30,0.03,95156,DevNet,0.8,0,0.7,0,2,28,Supervised
+SpamBase,Multivariate,No,1679,39.91,4207,DevNet,0.68,0.57,0.45,0.76,59,1620,Supervised
+speech,Multivariate,No,61,1.65,3686,DevNet,0.84,0.23,0.75,0.13,52,9,Supervised
+Stamps,Multivariate,No,31,9.12,340,DevNet,0.53,0.15,0.16,0.15,5,26,Supervised
+thyroid,Multivariate,No,93,2.47,3772,DevNet,0.82,0.29,0.72,0.18,53,40,Supervised
+vertebral,Multivariate,No,30,12.5,240,DevNet,0.49,0.08,0.07,0.1,3,27,Supervised
+vowels,Multivariate,No,50,3.43,1456,DevNet,0.76,0.3,0.62,0.19,20,30,Supervised
+Waveform,Multivariate,No,100,2.9,3443,DevNet,0.57,0.11,0.24,0.07,48,52,Supervised
+WBC,Multivariate,No,10,4.48,223,DevNet,0.95,0.48,1,0.31,3,7,Supervised
+WDBC,Multivariate,No,10,2.72,367,DevNet,0.96,0.41,1,0.26,5,5,Supervised
+Wilt,Multivariate,No,257,5.33,4819,DevNet,0.45,0,0,0,67,190,Supervised
+wine,Multivariate,No,10,7.75,129,DevNet,0.95,0.55,1,0.45,2,8,Supervised
+WPBC,Multivariate,No,47,23.74,198,DevNet,0.49,0.09,0.06,0.18,3,44,Supervised
+yeast,Multivariate,No,507,34.16,1484,DevNet,0.5,0.16,0.1,0.35,21,486,Supervised
+CIFAR10,Multivariate,No,263,5,5263,DevNet,0.68,0.23,0.37,0.17,74,189,Supervised
+FashionMNIST,Multivariate,No,315,5,6315,DevNet,0.81,0.41,0.71,0.29,88,227,Supervised
+MNIST-C,Multivariate,No,500,5,10000,DevNet,0.94,0.55,0.97,0.38,140,360,Supervised
+MVTec-AD,Multivariate,No,63,21.5,292,DevNet,0.51,0.17,0.13,0.26,4,59,Supervised
+SVHN,Multivariate,No,260,5,5208,DevNet,0.94,0.55,0.96,0.38,73,187,Supervised
+Agnews,Multivariate,No,500,5,10000,DevNet,0.51,0.09,0.14,0.07,140,360,Supervised
+Amazon,Multivariate,No,500,5,10000,DevNet,0.51,0.08,0.12,0.06,140,360,Supervised
+Imdb,Multivariate,No,500,5,10000,DevNet,0.52,0.09,0.13,0.07,140,360,Supervised
+Yelp,Multivariate,No,500,5,10000,DevNet,0.51,0.07,0.11,0.06,140,360,Supervised
+20newsgroups,Multivariate,No,155,5,3090,DevNet,0.5,0.06,0.1,0.05,43,112,Supervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,DevNet,0.5,0.07,0.1,0.05,58,161,Supervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,DevNet,0.57,0.22,0.23,0.22,706,3760,Supervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,DevNet,0.58,0.16,0.26,0.12,1210,3006,Supervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,DevNet,0.66,0.23,0.42,0.15,1210,1865,Supervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,DevNet,0.9,0.89,0.89,0.88,1208,36351,Supervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,DevNet,0.7,0.17,0.5,0.12,1210,957,Supervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,DevNet,0.6,0.2,0.3,0.17,756,2382,Supervised
+ecoli,Multivariate,No,9,2.68,336,DevNet,0.57,0.1,0.22,0.06,5,4,Supervised
+cmc,Multivariate,No,17,1.15,1473,DevNet,0.45,0,0,0,2,15,Supervised
+lympho h,Multivariate,No,6,4.05,148,DevNet,0.53,0.09,0.17,0.06,2,4,Supervised
+wbc h,Multivariate,No,21,5.56,378,DevNet,0.96,0.57,1,0.4,5,16,Supervised
+ALOI,Multivariate,No,1508,3.04,49534,GAN,0.52,0.06,0.14,0.04,0,1508,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,GAN,0.51,0.1,0.12,0.09,0,534,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,GAN,0.89,0.34,0.86,0.21,0,2329,Unsupervised
+breastw,Multivariate,No,239,34.99,683,GAN,0.41,0,0,0,0,239,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,GAN,0.55,0.2,0.19,0.21,0,4640,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,GAN,0.4,0.07,0.07,0.07,0,176,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,GAN,0.5,0.22,0.32,0.24,0,466,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,GAN,0.52,0.05,0.15,0.03,0,4547,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,GAN,0.5,0.02,1,0.01,0,2747,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,GAN,0.47,0.06,0.1,0.04,0,36710,Unsupervised
+fault,Multivariate,No,673,34.67,1941,GAN,0.53,0.21,0.14,0.47,0,673,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,GAN,,,,,0,492,Unsupervised
+glass,Multivariate,No,9,4.21,214,GAN,0.52,0.08,0.13,0.06,0,9,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,GAN,0.51,0.15,0.12,0.2,0,13,Unsupervised
+http,Multivariate,No,2211,0.39,567498,GAN,,,,,0,2211,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,GAN,0.47,0.16,0.04,0.11,0,368,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,GAN,0.55,0.25,0.16,0.58,0,126,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,GAN,0.55,0.25,0.19,0.38,0,1333,Unsupervised
+letter,Multivariate,No,100,6.25,1600,GAN,0.5,0.07,0.1,0.06,0,100,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,GAN,0.62,0.19,0.33,0.13,0,6,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,GAN,0.59,0.34,0.22,0.76,0,260,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,GAN,0.47,0.02,0.04,0.01,0,260,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,GAN,0.5,0.17,1,0.09,0,700,Unsupervised
+musk,Multivariate,No,97,3.17,3062,GAN,0.5,0.06,1,0.03,0,97,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,GAN,0.51,0.05,0.12,0.03,0,150,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,GAN,0.62,0.32,0.33,0.31,0,510,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,GAN,0.58,0.09,0.25,0.06,0,156,Unsupervised
+Pima,Multivariate,No,268,34.9,768,GAN,0.46,0.07,0.04,0.15,0,268,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,GAN,0.5,0.48,1,0.32,0,2036,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,GAN,0.5,0.02,1,0.01,0,71,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,GAN,0.5,0.13,1,0.07,0,3511,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,GAN,0.47,0.07,0.05,0.1,0,50859,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,GAN,0.5,0,1,0,0,30,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,GAN,0.43,0.03,0.02,0.08,0,1679,Unsupervised
+speech,Multivariate,No,61,1.65,3686,GAN,0.51,0.03,0.12,0.08,0,61,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,GAN,0.72,0.47,0.49,0.45,0,31,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,GAN,0.81,0.28,0.71,0.17,0,93,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,GAN,0.31,0.04,0.03,0.04,0,30,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,GAN,0.49,0.04,0.08,0.03,0,50,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,GAN,0.82,0.32,0.72,0.21,0,100,Unsupervised
+WBC,Multivariate,No,10,4.48,223,GAN,0.52,0.08,0.13,0.06,0,10,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,GAN,0.46,0.02,0.33,0.01,0,10,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,GAN,0.5,0.1,1,0.05,0,257,Unsupervised
+wine,Multivariate,No,10,7.75,129,GAN,0.81,0.58,0.67,0.51,0,10,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,GAN,0.49,0.12,0.09,0.2,0,47,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,GAN,0.53,0.22,0.14,0.49,0,507,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,GAN,0.64,0.25,0.37,0.18,0,263,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,GAN,0.67,0.28,0.42,0.21,0,315,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,GAN,0.54,0.12,0.18,0.09,0,500,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,GAN,0.73,0.62,0.46,0.97,0,63,Unsupervised
+SVHN,Multivariate,No,260,5,5208,GAN,0.58,0.12,0.2,0.1,0,260,Unsupervised
+Agnews,Multivariate,No,500,5,10000,GAN,0.56,0.14,0.21,0.1,0,500,Unsupervised
+Amazon,Multivariate,No,500,5,10000,GAN,0.51,0.07,0.11,0.06,0,500,Unsupervised
+Imdb,Multivariate,No,500,5,10000,GAN,0.5,0,0,0,0,500,Unsupervised
+Yelp,Multivariate,No,500,5,10000,GAN,0.49,0.06,0.08,0.04,0,500,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,GAN,0.49,0.06,0.08,0.04,0,155,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,GAN,0.55,0.14,0.23,0.1,0,219,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,GAN,0.5,0.16,1,0.09,0,4466,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,GAN,0.5,0.04,1,0.05,0,4216,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,GAN,0.5,0.04,1,0.04,0,3075,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,GAN,0.5,0.44,1,0.44,0,37559,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,GAN,0.5,0.02,1,0.03,0,2167,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,GAN,0.5,0.06,1,0.06,0,3138,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,GAN,0.5,0,0,0,0,9,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,GAN,0.69,0.1,0.47,0.05,0,17,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,GAN,0.5,0.07,0.11,0.05,0,6,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,GAN,0.49,0.06,0.08,0.04,0,21,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,MGBTAI,0.52,0.07,0.13,0.04,-,-,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,MGBTAI,0.5,0.1,0.18,0.07,-,-,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,MGBTAI,0.49,0.02,0.02,0.01,-,-,Unsupervised
+breastw,Multivariate,No,239,34.99,683,MGBTAI,0.65,0.48,0.33,0.85,-,-,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,MGBTAI,0.53,0.16,0.16,0.17,-,-,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,MGBTAI,0.64,0.38,0.32,0.48,-,-,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,MGBTAI,0.59,0.32,0.2,0.8,-,-,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,MGBTAI,0.75,0.14,0.7,0.08,-,-,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,MGBTAI,0.5,0,0,0,-,-,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,MGBTAI,0.5,0,0,0,-,-,Unsupervised
+fault,Multivariate,No,673,34.67,1941,MGBTAI,0.51,0.12,0.07,0.42,-,-,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,MGBTAI,0.75,0.02,0.62,0.01,-,-,Unsupervised
+glass,Multivariate,No,9,4.21,214,MGBTAI,0.53,0.09,0.11,0.08,-,-,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,MGBTAI,0.44,0,0,0,-,-,Unsupervised
+http,Multivariate,No,2211,0.39,567498,MGBTAI,0.95,0.08,1,0.05,-,-,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,MGBTAI,0.62,0.38,0.23,0.98,-,-,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,MGBTAI,0.5,0.06,0.03,0.44,-,-,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,MGBTAI,0.44,0,0,0.01,-,-,Unsupervised
+letter,Multivariate,No,100,6.25,1600,MGBTAI,0.54,0.13,0.18,0.11,-,-,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,MGBTAI,0.97,0.6,1,0.43,-,-,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,MGBTAI,0.59,0.33,0.21,0.77,-,-,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,MGBTAI,0.5,0,0,0,-,-,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,MGBTAI,0.46,0.02,0.02,0.02,-,-,Unsupervised
+musk,Multivariate,No,97,3.17,3062,MGBTAI,0.85,0.35,0.79,0.23,-,-,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,MGBTAI,0.88,0.47,0.81,0.33,-,-,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,MGBTAI,0.53,0.11,0.06,0.67,-,-,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,MGBTAI,0.41,0,0.03,0,-,-,Unsupervised
+Pima,Multivariate,No,268,34.9,768,MGBTAI,0.49,0.09,0.05,0.28,-,-,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,MGBTAI,0.65,0.46,0.3,1,-,-,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,MGBTAI,0.92,0.25,1,0.14,-,-,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,MGBTAI,0.5,0.01,0.01,0.49,-,-,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,MGBTAI,0.56,0.24,0.15,0.62,-,-,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,MGBTAI,0.64,0,0.33,0,-,-,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,MGBTAI,0.57,0.29,0.18,0.73,-,-,Unsupervised
+speech,Multivariate,No,61,1.65,3686,MGBTAI,0.49,0.03,0.11,0.01,-,-,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,MGBTAI,0.51,0.09,0.06,0.13,-,-,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,MGBTAI,0.6,0.17,0.25,0.13,-,-,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,MGBTAI,0.49,0,0,0,-,-,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,MGBTAI,0.58,0.26,0.16,0.67,-,-,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,MGBTAI,0.5,0,0,0,-,-,Unsupervised
+WBC,Multivariate,No,10,4.48,223,MGBTAI,0.97,0.57,1,0.42,-,-,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,MGBTAI,0.95,0.34,1,0.21,-,-,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,MGBTAI,0.48,0,0,0,-,-,Unsupervised
+wine,Multivariate,No,10,7.75,129,MGBTAI,0.96,0.69,1,0.53,-,-,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,MGBTAI,0.47,0.06,0.04,0.12,-,-,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,MGBTAI,0.49,0.01,0,0.1,-,-,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,MGBTAI,0.49,0.05,0.07,0.04,-,-,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,MGBTAI,0.51,0.08,0.12,0.06,-,-,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,MGBTAI,0.5,0.07,0.12,0.05,-,-,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,MGBTAI,0.61,0.36,0.22,1,-,-,Unsupervised
+SVHN,Multivariate,No,260,5,5208,MGBTAI,0.51,0.06,0.06,0.06,-,-,Unsupervised
+Agnews,Multivariate,No,500,5,10000,MGBTAI,0.5,0.03,0.02,0.05,-,-,Unsupervised
+Amazon,Multivariate,No,500,5,10000,MGBTAI,0.5,0.07,0.12,0.05,-,-,Unsupervised
+Imdb,Multivariate,No,500,5,10000,MGBTAI,0.48,0.02,0.02,0.02,-,-,Unsupervised
+Yelp,Multivariate,No,500,5,10000,MGBTAI,0.5,0.04,0.04,0.04,-,-,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,MGBTAI,0.5,0,0,0,-,-,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,MGBTAI,0.52,0.1,0.1,0.1,-,-,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,MGBTAI,0.57,0.24,0.15,0.63,-,-,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,MGBTAI,0.54,0.15,0.08,0.71,-,-,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,MGBTAI,0.48,0.02,0.03,0.02,-,-,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,MGBTAI,0.47,0.18,0.12,0.34,-,-,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,MGBTAI,0.6,0.22,0.22,0.22,-,-,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,MGBTAI,0.7,0.57,0.4,0.97,-,-,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,MGBTAI,0.82,0.23,0.78,0.14,-,-,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,MGBTAI,0.46,0,0,0,-,-,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,MGBTAI,0.44,0,0,0,-,-,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,MGBTAI,0.75,0.56,0.52,0.61,-,-,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,dBTAI,0.53,0.07,0.41,0.04,-,-,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,dBTAI,0.57,0.17,0.49,0.1,-,-,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,dBTAI,,,,,-,-,Unsupervised
+breastw,Multivariate,No,239,34.99,683,dBTAI,0.9,0.87,0.85,0.89,-,-,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,dBTAI,0.62,0.27,0.64,0.17,-,-,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,dBTAI,0.72,0.32,0.76,0.2,-,-,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,dBTAI,0.61,0.4,0.47,0.35,-,-,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,dBTAI,0.55,0.06,0.37,0.03,-,-,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,dBTAI,0.68,0.04,0.69,0.02,-,-,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,dBTAI,,,,,-,-,Unsupervised
+fault,Multivariate,No,673,34.67,1941,dBTAI,0.65,0.56,0.63,0.5,-,-,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,dBTAI,0.72,0.01,0.85,0.01,-,-,Unsupervised
+glass,Multivariate,No,9,4.21,214,dBTAI,0.75,0.2,0.78,0.11,-,-,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,dBTAI,0.51,0.22,0.31,0.17,-,-,Unsupervised
+http,Multivariate,No,2211,0.39,567498,dBTAI,0.34,0,0.02,0,-,-,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,dBTAI,,,,,-,-,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,dBTAI,0.81,0.75,0.78,0.73,-,-,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,dBTAI,0.55,0.32,0.44,0.25,-,-,Unsupervised
+letter,Multivariate,No,100,6.25,1600,dBTAI,,,,,-,-,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,dBTAI,0.88,0.26,1,0.15,-,-,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,dBTAI,0.66,0.54,0.49,0.6,-,-,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,dBTAI,,,,,-,-,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,dBTAI,0.71,0.28,0.85,0.17,-,-,Unsupervised
+musk,Multivariate,No,97,3.17,3062,dBTAI,0.81,0.15,1,0.08,-,-,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,dBTAI,0.44,0.04,0.34,0.02,-,-,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,dBTAI,0.55,0.19,0.21,0.17,-,-,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,dBTAI,0.65,0.07,0.71,0.04,-,-,Unsupervised
+Pima,Multivariate,No,268,34.9,768,dBTAI,0.56,0.43,0.44,0.42,-,-,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,dBTAI,0.67,0.55,0.59,0.51,-,-,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,dBTAI,0.83,0.07,1,0.03,-,-,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,dBTAI,0.9,0.59,0.89,0.45,-,-,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,dBTAI,0.58,0.33,0.33,0.33,-,-,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,dBTAI,0.79,0,0.87,0,-,-,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,dBTAI,0.59,0.38,0.27,0.66,-,-,Unsupervised
+speech,Multivariate,No,61,1.65,3686,dBTAI,0.48,0.03,0.51,0.02,-,-,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,dBTAI,0.75,0.32,0.84,0.2,-,-,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,dBTAI,0.8,0.12,0.92,0.07,-,-,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,dBTAI,0.44,0.13,0.24,0.09,-,-,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,dBTAI,0.79,0.14,1,0.08,-,-,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,dBTAI,0.61,0.08,0.71,0.04,-,-,Unsupervised
+WBC,Multivariate,No,10,4.48,223,dBTAI,0.9,0.31,1,0.19,-,-,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,dBTAI,0.91,0.23,1,0.13,-,-,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,dBTAI,0.48,0.07,0.17,0.04,-,-,Unsupervised
+wine,Multivariate,No,10,7.75,129,dBTAI,0.87,0.4,1,0.25,-,-,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,dBTAI,0.52,0.33,0.45,0.26,-,-,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,dBTAI,0.47,0.3,0.3,0.3,-,-,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,dBTAI,0.64,0.14,0.7,0.08,-,-,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,dBTAI,0.76,0.19,0.93,0.1,-,-,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,dBTAI,0.73,0.18,0.88,0.1,-,-,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,dBTAI,0.92,0.83,0.9,0.77,-,-,Unsupervised
+SVHN,Multivariate,No,260,5,5208,dBTAI,0.59,0.13,0.62,0.07,-,-,Unsupervised
+Agnews,Multivariate,No,500,5,10000,dBTAI,0.55,0.11,0.47,0.06,-,-,Unsupervised
+Amazon,Multivariate,No,500,5,10000,dBTAI,0.55,0.11,0.46,0.06,-,-,Unsupervised
+Imdb,Multivariate,No,500,5,10000,dBTAI,0.48,0.08,0.33,0.05,-,-,Unsupervised
+Yelp,Multivariate,No,500,5,10000,dBTAI,0.59,0.13,0.57,0.07,-,-,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,dBTAI,0.62,0.14,0.6,0.08,-,-,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,dBTAI,0.69,0.18,0.75,0.1,-,-,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,dBTAI,0.73,0.3,0.79,0.19,-,-,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,dBTAI,0.55,0.11,0.43,0.06,-,-,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,dBTAI,,,,,-,-,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,dBTAI,0.32,0.17,0.15,0.19,-,-,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,dBTAI,0.76,0.12,0.85,0.06,-,-,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,dBTAI,0.73,0.22,0.8,0.13,-,-,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,dBTAI,0.59,0.07,0.56,0.04,-,-,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,dBTAI,0.43,0.01,0.18,0.01,-,-,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,dBTAI,0.82,0.19,1,0.1,-,-,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,dBTAI,0.81,0.25,0.95,0.15,-,-,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,Deep-Sad,0.57,0.07,0.16,0.04,15,1493,Semi-supervised
+annthyroid,Multivariate,No,534,7.42,7200,Deep-Sad,0.9,0.39,0.62,0.46,5,529,Semi-supervised
+backdoor,Multivariate,No,2329,2.44,95329,Deep-Sad,,,,,23,2306,Semi-supervised
+breastw,Multivariate,No,239,34.99,683,Deep-Sad,0.97,0.92,0.95,0.88,2,237,Semi-supervised
+campaign,Multivariate,No,4640,11.27,41188,Deep-Sad,0.71,0.33,0.57,0.23,46,4594,Semi-supervised
+cardio,Multivariate,No,176,9.61,1831,Deep-Sad,0.89,0.53,0.78,0.4,2,174,Semi-supervised
+Cardiotocography,Multivariate,No,466,22.04,2114,Deep-Sad,0.38,0.09,0.05,0.34,5,461,Semi-supervised
+celeba,Multivariate,No,4547,2.24,202599,Deep-Sad,0.87,0.15,0.74,0.08,45,4502,Semi-supervised
+cover,Multivariate,No,2747,0.96,286048,Deep-Sad,0.39,0.08,0.25,0.05,27,2720,Semi-supervised
+donors,Multivariate,No,36710,5.93,619326,Deep-Sad,1,0.99,0.99,1,367,36343,Semi-supervised
+fault,Multivariate,No,673,34.67,1941,Deep-Sad,0.75,0.59,0.62,0.57,7,666,Semi-supervised
+fraud,Multivariate,No,492,0.17,284807,Deep-Sad,0.93,0.09,0.84,0.05,5,487,Semi-supervised
+glass,Multivariate,No,9,4.21,214,Deep-Sad,0.73,0.15,0.67,0.08,1,8,Semi-supervised
+Hepatitis,Multivariate,No,13,16.25,80,Deep-Sad,0.97,0.72,1,0.57,1,12,Semi-supervised
+http,Multivariate,No,2211,0.39,567498,Deep-Sad,0.01,0.01,1,0,22,2189,Semi-supervised
+InternetAds,Multivariate,No,368,18.72,1966,Deep-Sad,0.91,0.65,0.85,0.52,4,364,Semi-supervised
+Ionosphere,Multivariate,No,126,35.9,351,Deep-Sad,0.94,0.84,0.91,0.78,1,125,Semi-supervised
+landsat,Multivariate,No,1333,20.71,6435,Deep-Sad,0.88,0.65,0.78,0.56,13,1320,Semi-supervised
+letter,Multivariate,No,100,6.25,1600,Deep-Sad,,,,,1,99,Semi-supervised
+Lymphography,Multivariate,No,6,4.05,148,Deep-Sad,0.92,0.45,0.83,0.31,1,5,Semi-supervised
+magic.gamma,Multivariate,No,260,1.37,19020,Deep-Sad,0.88,0.75,0.79,0.72,3,257,Semi-supervised
+mammography,Multivariate,No,260,2.32,11183,Deep-Sad,0.67,0.12,0.55,0.03,3,257,Semi-supervised
+mnist,Multivariate,No,700,9.21,7603,Deep-Sad,0.89,0.42,0.85,0.28,7,693,Semi-supervised
+musk,Multivariate,No,97,3.17,3062,Deep-Sad,0.98,0.42,0.97,0.27,1,96,Semi-supervised
+optdigits,Multivariate,No,150,2.88,5216,Deep-Sad,0.99,0.68,0.97,0.53,2,148,Semi-supervised
+PageBlocks,Multivariate,No,510,9.46,5393,Deep-Sad,0.49,0.2,0.89,0.11,5,505,Semi-supervised
+pendigits,Multivariate,No,156,2.27,6870,Deep-Sad,0.99,0.49,0.99,0.33,2,154,Semi-supervised
+Pima,Multivariate,No,268,34.9,768,Deep-Sad,0.73,0.6,0.73,0.51,3,265,Semi-supervised
+satellite,Multivariate,No,2036,31.64,6435,Deep-Sad,0.73,0.59,0.56,0.62,20,2016,Semi-supervised
+satimage-2,Multivariate,No,71,1.22,5803,Deep-Sad,0.99,0.84,0.93,0.77,1,70,Semi-supervised
+shuttle,Multivariate,No,3511,7.15,49097,Deep-Sad,0.76,0.59,0.48,0.8,35,3476,Semi-supervised
+skin,Multivariate,No,50859,20.75,245057,Deep-Sad,0.99,0.99,0.99,0.99,509,50350,Semi-supervised
+smtp,Multivariate,No,30,0.03,95156,Deep-Sad,0.81,0.72,0.57,1,0,30,Semi-supervised
+SpamBase,Multivariate,No,1679,39.91,4207,Deep-Sad,0.41,0.11,0.06,0.92,17,1662,Semi-supervised
+speech,Multivariate,No,61,1.65,3686,Deep-Sad,0.98,0.21,0.97,0.12,1,60,Semi-supervised
+Stamps,Multivariate,No,31,9.12,340,Deep-Sad,0.9,0.52,0.77,0.39,1,30,Semi-supervised
+thyroid,Multivariate,No,93,2.47,3772,Deep-Sad,0.98,0.43,0.91,0.29,1,92,Semi-supervised
+vertebral,Multivariate,No,30,12.5,240,Deep-Sad,0.42,0.24,0.93,0.14,1,29,Semi-supervised
+vowels,Multivariate,No,50,3.43,1456,Deep-Sad,0.94,0.43,0.78,0.3,1,49,Semi-supervised
+Waveform,Multivariate,No,100,2.9,3443,Deep-Sad,0.77,0.22,0.51,0.14,1,99,Semi-supervised
+WBC,Multivariate,No,10,4.48,223,Deep-Sad,0.98,0.45,0.9,0.3,1,9,Semi-supervised
+WDBC,Multivariate,No,10,2.72,367,Deep-Sad,1,0.91,1,0.83,1,9,Semi-supervised
+Wilt,Multivariate,No,257,5.33,4819,Deep-Sad,0.58,0.14,0.51,0.08,3,254,Semi-supervised
+wine,Multivariate,No,10,7.75,129,Deep-Sad,0.98,0.9,0.9,0.9,1,9,Semi-supervised
+WPBC,Multivariate,No,47,23.74,198,Deep-Sad,0.75,0.52,0.72,0.4,1,46,Semi-supervised
+yeast,Multivariate,No,507,34.16,1484,Deep-Sad,0.53,0.5,0.82,0.36,5,502,Semi-supervised
+CIFAR10,Multivariate,No,263,5,5263,Deep-Sad,0.72,0.18,0.61,0.1,3,260,Semi-supervised
+FashionMNIST,Multivariate,No,315,5,6315,Deep-Sad,0.9,0.34,0.8,0.22,3,312,Semi-supervised
+MNIST-C,Multivariate,No,500,5,10000,Deep-Sad,0.97,0.63,0.88,0.49,5,495,Semi-supervised
+MVTec-AD,Multivariate,No,63,21.5,292,Deep-Sad,0.86,0.74,0.62,0.93,1,62,Semi-supervised
+SVHN,Multivariate,No,260,5,5208,Deep-Sad,0.72,0.22,0.5,0.14,3,257,Semi-supervised
+Agnews,Multivariate,No,500,5,10000,Deep-Sad,0.68,0.16,0.59,0.09,5,495,Semi-supervised
+Amazon,Multivariate,No,500,5,10000,Deep-Sad,0.63,0.14,0.21,0.01,5,495,Semi-supervised
+Imdb,Multivariate,No,500,5,10000,Deep-Sad,0.59,0.12,0.19,0.09,5,495,Semi-supervised
+Yelp,Multivariate,No,500,5,10000,Deep-Sad,0.66,0.17,0.25,0.13,5,495,Semi-supervised
+20newsgroups,Multivariate,No,155,5,3090,Deep-Sad,0.69,0.15,0.71,0.08,2,153,Semi-supervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,Deep-Sad,0.8,0.22,0.76,0.13,2,217,Semi-supervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,Deep-Sad,0.76,0.55,0.59,0.51,45,4421,Semi-supervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,Deep-Sad,0.64,0.13,0.75,0.07,42,4174,Semi-supervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,Deep-Sad,,,,,31,3044,Semi-supervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,Deep-Sad,0.96,0.94,0.9,1,376,37183,Semi-supervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,Deep-Sad,0.6,0.22,0.4,0.15,22,2145,Semi-supervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,Deep-Sad,0.89,0.46,0.79,0.32,31,3107,Semi-supervised
+ecoli,Multivariate,No,9,2.68,336,Deep-Sad,0.86,0.19,0.67,0.12,1,8,Semi-supervised
+cmc,Multivariate,No,17,1.15,1473,Deep-Sad,0.85,0.06,0.94,0.03,1,16,Semi-supervised
+lympho h,Multivariate,No,6,4.05,148,Deep-Sad,0.99,0.6,1,0.43,1,5,Semi-supervised
+wbc h,Multivariate,No,21,5.56,378,Deep-Sad,0.04,0.11,1,0.06,1,20,Semi-supervised
+ALOI,Multivariate,No,1508,3.04,49534,FTT,0.5,0.06,0.18,0.04,15,1493,Supervised
+annthyroid,Multivariate,No,534,7.42,7200,FTT,0.51,0.53,0.09,0.53,5,529,Supervised
+backdoor,Multivariate,No,2329,2.44,95329,FTT,,,,,23,2306,Supervised
+breastw,Multivariate,No,239,34.99,683,FTT,0.99,0.96,0.98,0.94,2,237,Supervised
+campaign,Multivariate,No,4640,11.27,41188,FTT,0.68,0.2,0.19,0.22,46,4594,Supervised
+cardio,Multivariate,No,176,9.61,1831,FTT,0.81,0.4,0.41,0.39,2,174,Supervised
+Cardiotocography,Multivariate,No,466,22.04,2114,FTT,0.69,0.41,0.29,0.66,5,461,Supervised
+celeba,Multivariate,No,4547,2.24,202599,FTT,0.76,0.19,0.52,0.12,45,4502,Supervised
+cover,Multivariate,No,2747,0.96,286048,FTT,0.89,0.06,0.91,0.03,27,2720,Supervised
+donors,Multivariate,No,36710,5.93,619326,FTT,,,,,367,36343,Supervised
+fault,Multivariate,No,673,34.67,1941,FTT,0.63,0.52,0.59,0.45,7,666,Supervised
+fraud,Multivariate,No,492,0.17,284807,FTT,0.92,0.49,0.8,0.36,5,487,Supervised
+glass,Multivariate,No,9,4.21,214,FTT,0.82,0.23,0.67,0.14,1,8,Supervised
+Hepatitis,Multivariate,No,13,16.25,80,FTT,0.77,0.51,0.69,0.41,1,12,Supervised
+http,Multivariate,No,2211,0.39,567498,FTT,,,,,22,2189,Supervised
+InternetAds,Multivariate,No,368,18.72,1966,FTT,,,,,4,364,Supervised
+Ionosphere,Multivariate,No,126,35.9,351,FTT,0.84,0.72,0.84,0.63,1,125,Supervised
+landsat,Multivariate,No,1333,20.71,6435,FTT,0.76,0.55,0.46,0.68,13,1320,Supervised
+letter,Multivariate,No,100,6.25,1600,FTT,,,,,1,99,Supervised
+Lymphography,Multivariate,No,6,4.05,148,FTT,1,0.67,0.83,0.56,1,5,Supervised
+magic.gamma,Multivariate,No,260,1.37,19020,FTT,0.85,0.7,0.73,0.68,3,257,Supervised
+mammography,Multivariate,No,260,2.32,11183,FTT,0.77,0.09,0.25,0.06,3,257,Supervised
+mnist,Multivariate,No,700,9.21,7603,FTT,0.96,0.67,0.88,0.54,7,693,Supervised
+musk,Multivariate,No,97,3.17,3062,FTT,1,0.99,0.99,1,1,96,Supervised
+optdigits,Multivariate,No,150,2.88,5216,FTT,1,0.99,0.98,1,2,148,Supervised
+PageBlocks,Multivariate,No,510,9.46,5393,FTT,0.82,0.34,0.8,0.22,5,505,Supervised
+pendigits,Multivariate,No,156,2.27,6870,FTT,0.99,0.82,0.97,0.71,2,154,Supervised
+Pima,Multivariate,No,268,34.9,768,FTT,0.65,0.54,0.63,0.48,3,265,Supervised
+satellite,Multivariate,No,2036,31.64,6435,FTT,0.8,0.75,0.64,0.91,20,2016,Supervised
+satimage-2,Multivariate,No,71,1.22,5803,FTT,0.99,0.81,0.92,0.73,1,70,Supervised
+shuttle,Multivariate,No,3511,7.15,49097,FTT,0.99,0.94,0.97,0.91,35,3476,Supervised
+skin,Multivariate,No,50859,20.75,245057,FTT,0.84,0.61,0.45,0.94,509,50350,Supervised
+smtp,Multivariate,No,30,0.03,95156,FTT,0.77,0.58,0.63,0.53,1,29,Supervised
+SpamBase,Multivariate,No,1679,39.91,4207,FTT,0.74,0.34,0.21,0.86,17,1662,Supervised
+speech,Multivariate,No,61,1.65,3686,FTT,0.52,0.04,0.57,0.02,1,60,Supervised
+Stamps,Multivariate,No,31,9.12,340,FTT,0.93,0.81,0.81,0.81,1,30,Supervised
+thyroid,Multivariate,No,93,2.47,3772,FTT,1,0.53,0.99,0.36,1,92,Supervised
+vertebral,Multivariate,No,30,12.5,240,FTT,0.65,0.3,0.53,0.21,1,29,Supervised
+vowels,Multivariate,No,50,3.43,1456,FTT,0.91,0.37,0.74,0.24,1,49,Supervised
+Waveform,Multivariate,No,100,2.9,3443,FTT,0.51,0.09,0.13,0.07,1,99,Supervised
+WBC,Multivariate,No,10,4.48,223,FTT,0.99,0.64,0.9,0.5,1,9,Supervised
+WDBC,Multivariate,No,10,2.72,367,FTT,1,0.9,0.9,0.9,1,9,Supervised
+Wilt,Multivariate,No,257,5.33,4819,FTT,0.73,0.17,0.86,0.09,3,254,Supervised
+wine,Multivariate,No,10,7.75,129,FTT,1,0.9,0.9,0.9,1,9,Supervised
+WPBC,Multivariate,No,47,23.74,198,FTT,0.58,0.35,0.26,0.57,1,46,Supervised
+yeast,Multivariate,No,507,34.16,1484,FTT,0.61,0.48,0.5,0.46,5,502,Supervised
+CIFAR10,Multivariate,No,263,5,5263,FTT,0.58,0.13,0.36,0.08,3,260,Supervised
+FashionMNIST,Multivariate,No,315,5,6315,FTT,0.73,0.24,0.59,0.15,3,312,Supervised
+MNIST-C,Multivariate,No,500,5,10000,FTT,0.93,0.45,0.83,0.31,5,495,Supervised
+MVTec-AD,Multivariate,No,63,21.5,292,FTT,0.9,0.65,0.48,1,1,62,Supervised
+SVHN,Multivariate,No,260,5,5208,FTT,0.59,0.12,0.46,0.07,3,257,Supervised
+Agnews,Multivariate,No,500,5,10000,FTT,0.42,0.1,1,0.05,5,495,Supervised
+Amazon,Multivariate,No,500,5,10000,FTT,0.51,0.1,0.35,0.06,5,495,Supervised
+Imdb,Multivariate,No,500,5,10000,FTT,0.45,0,0,0,5,495,Supervised
+Yelp,Multivariate,No,500,5,10000,FTT,0.44,0.1,0.09,0.11,5,495,Supervised
+20newsgroups,Multivariate,No,155,5,3090,FTT,0.43,0.09,0.95,0.05,2,153,Supervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,FTT,0.56,0.12,0.42,0.07,2,217,Supervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,FTT,0.78,0.29,0.91,0.17,45,4421,Supervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,FTT,0.96,0.4,0.92,0.25,42,4174,Supervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,FTT,,,,,31,3044,Supervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,FTT,1,0.99,0.98,1,376,37183,Supervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,FTT,0.96,0.29,0.94,0.17,22,2145,Supervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,FTT,1,0.96,1,0.92,31,3107,Supervised
+ecoli,Multivariate,No,9,2.68,336,FTT,0.9,0.33,0.78,0.21,1,8,Supervised
+cmc,Multivariate,No,17,1.15,1473,FTT,0.7,0.04,0.65,0.02,1,16,Supervised
+lympho h,Multivariate,No,6,4.05,148,FTT,0.95,0.44,0.67,0.33,1,5,Supervised
+wbc h,Multivariate,No,21,5.56,378,FTT,0.94,0.52,0.86,0.38,1,20,Supervised
+ALOI,Multivariate,No,1508,3.04,49534,PReNet,0.51,0.05,0.11,0.03,15,1493,Semi-supervised
+annthyroid,Multivariate,No,534,7.42,7200,PReNet,0.47,0.07,0.08,0.06,5,529,Semi-supervised
+backdoor,Multivariate,No,2329,2.44,95329,PReNet,,,,,23,2306,Semi-supervised
+breastw,Multivariate,No,239,34.99,683,PReNet,0.83,0.44,0.28,0.97,2,237,Semi-supervised
+campaign,Multivariate,No,4640,11.27,41188,PReNet,0.65,0.16,0.15,0.17,46,4594,Semi-supervised
+cardio,Multivariate,No,176,9.61,1831,PReNet,0.82,0.35,0.36,0.34,2,174,Semi-supervised
+Cardiotocography,Multivariate,No,466,22.04,2114,PReNet,0.77,0.45,0.33,0.72,5,461,Semi-supervised
+celeba,Multivariate,No,4547,2.24,202599,PReNet,0.81,0.21,0.58,0.13,45,4502,Semi-supervised
+cover,Multivariate,No,2747,0.96,286048,PReNet,0.66,0.01,0.04,0,27,2720,Semi-supervised
+donors,Multivariate,No,36710,5.93,619326,PReNet,0.99,0.74,1,0.59,367,36343,Semi-supervised
+fault,Multivariate,No,673,34.67,1941,PReNet,0.53,0.31,0.2,0.69,7,666,Semi-supervised
+fraud,Multivariate,No,492,0.17,284807,PReNet,0.93,0.03,0.83,0.01,5,487,Semi-supervised
+glass,Multivariate,No,9,4.21,214,PReNet,0.83,0.06,0.11,0.05,1,8,Semi-supervised
+Hepatitis,Multivariate,No,13,16.25,80,PReNet,0.65,0.48,0.38,0.63,1,12,Semi-supervised
+http,Multivariate,No,2211,0.39,567498,PReNet,1,0.07,1,0.04,22,2189,Semi-supervised
+InternetAds,Multivariate,No,368,18.72,1966,PReNet,0.51,0.45,0.35,0.65,4,364,Semi-supervised
+Ionosphere,Multivariate,No,126,35.9,351,PReNet,0.41,0.37,0.24,0.83,1,125,Semi-supervised
+landsat,Multivariate,No,1333,20.71,6435,PReNet,0.61,0.51,0.38,0.78,13,1320,Semi-supervised
+letter,Multivariate,No,100,6.25,1600,PReNet,,,,,1,99,Semi-supervised
+Lymphography,Multivariate,No,6,4.05,148,PReNet,0.83,0.48,0.83,0.33,1,5,Semi-supervised
+magic.gamma,Multivariate,No,260,1.37,19020,PReNet,0.59,0.27,0.18,0.62,3,257,Semi-supervised
+mammography,Multivariate,No,260,2.32,11183,PReNet,0.31,0,0.01,0,3,257,Semi-supervised
+mnist,Multivariate,No,700,9.21,7603,PReNet,0.43,0.36,0.38,0.35,7,693,Semi-supervised
+musk,Multivariate,No,97,3.17,3062,PReNet,0.5,0.06,1,0.03,1,96,Semi-supervised
+optdigits,Multivariate,No,150,2.88,5216,PReNet,0.99,0.44,0.99,0.28,2,148,Semi-supervised
+PageBlocks,Multivariate,No,510,9.46,5393,PReNet,0.4,0.17,0.18,0.17,5,505,Semi-supervised
+pendigits,Multivariate,No,156,2.27,6870,PReNet,0.99,0.36,0.97,0.22,2,154,Semi-supervised
+Pima,Multivariate,No,268,34.9,768,PReNet,0.52,0.26,0.16,0.57,3,265,Semi-supervised
+satellite,Multivariate,No,2036,31.64,6435,PReNet,0.61,0.39,0.25,0.8,20,2016,Semi-supervised
+satimage-2,Multivariate,No,71,1.22,5803,PReNet,0.97,0.2,0.93,0.11,1,70,Semi-supervised
+shuttle,Multivariate,No,3511,7.15,49097,PReNet,0.97,0.79,0.94,0.67,35,3476,Semi-supervised
+skin,Multivariate,No,50859,20.75,245057,PReNet,0.97,0.58,0.43,0.89,509,50350,Semi-supervised
+smtp,Multivariate,No,30,0.03,95156,PReNet,0.79,0,0.67,0,1,29,Semi-supervised
+SpamBase,Multivariate,No,1679,39.91,4207,PReNet,0.69,0.32,0.2,0.81,17,1662,Semi-supervised
+speech,Multivariate,No,61,1.65,3686,PReNet,0.51,0.07,0.25,0.04,1,60,Semi-supervised
+Stamps,Multivariate,No,31,9.12,340,PReNet,0.94,0.74,0.77,0.71,1,30,Semi-supervised
+thyroid,Multivariate,No,93,2.47,3772,PReNet,1,0.39,1,0.25,1,92,Semi-supervised
+vertebral,Multivariate,No,30,12.5,240,PReNet,0.75,0.52,0.47,0.58,1,29,Semi-supervised
+vowels,Multivariate,No,50,3.43,1456,PReNet,0.96,0.46,0.9,0.31,1,49,Semi-supervised
+Waveform,Multivariate,No,100,2.9,3443,PReNet,0.65,0.12,0.27,0.08,1,99,Semi-supervised
+WBC,Multivariate,No,10,4.48,223,PReNet,0.98,0.61,1,0.43,1,9,Semi-supervised
+WDBC,Multivariate,No,10,2.72,367,PReNet,1,0.43,1,0.27,1,9,Semi-supervised
+Wilt,Multivariate,No,257,5.33,4819,PReNet,0.65,0.18,0.26,0.14,3,254,Semi-supervised
+wine,Multivariate,No,10,7.75,129,PReNet,1,0.78,0.9,0.69,1,9,Semi-supervised
+WPBC,Multivariate,No,47,23.74,198,PReNet,0.66,0.33,0.23,0.55,1,46,Semi-supervised
+yeast,Multivariate,No,507,34.16,1484,PReNet,0.49,0.16,0.1,0.34,5,502,Semi-supervised
+CIFAR10,Multivariate,No,263,5,5263,PReNet,0.52,0.09,0.13,0.06,3,260,Semi-supervised
+FashionMNIST,Multivariate,No,315,5,6315,PReNet,0.6,0.16,0.24,0.12,3,312,Semi-supervised
+MNIST-C,Multivariate,No,500,5,10000,PReNet,0.76,0.36,0.54,0.27,5,495,Semi-supervised
+MVTec-AD,Multivariate,No,63,21.5,292,PReNet,0.95,0.65,0.48,1,1,62,Semi-supervised
+SVHN,Multivariate,No,260,5,5208,PReNet,0.58,0.12,0.18,0.09,3,257,Semi-supervised
+Agnews,Multivariate,No,500,5,10000,PReNet,0.73,0.22,0.33,0.16,5,495,Semi-supervised
+Amazon,Multivariate,No,500,5,10000,PReNet,0.75,0.24,0.36,0.18,5,495,Semi-supervised
+Imdb,Multivariate,No,500,5,10000,PReNet,0.58,0.12,0.19,0.09,5,495,Semi-supervised
+Yelp,Multivariate,No,500,5,10000,PReNet,0.58,0.11,0.17,0.08,5,495,Semi-supervised
+20newsgroups,Multivariate,No,155,5,3090,PReNet,0.71,0.18,0.27,0.14,2,153,Semi-supervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,PReNet,0.64,0.22,0.32,0.17,2,217,Semi-supervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,PReNet,0.49,0.22,0.24,0.21,45,4421,Semi-supervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,PReNet,0.44,0.11,0.17,0.08,42,4174,Semi-supervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,PReNet,,,,,31,3044,Semi-supervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,PReNet,0.95,0.37,0.23,1,376,37183,Semi-supervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,PReNet,0.49,0.04,0.11,0.03,22,2145,Semi-supervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,PReNet,0.84,0.41,0.56,0.33,31,3107,Semi-supervised
+ecoli,Multivariate,No,9,2.68,336,PReNet,0.92,0.33,0.78,0.21,1,8,Semi-supervised
+cmc,Multivariate,No,17,1.15,1473,PReNet,0.56,0.06,0.29,0.03,1,16,Semi-supervised
+lympho h,Multivariate,No,6,4.05,148,PReNet,0.99,0.57,1,0.4,1,5,Semi-supervised
+wbc h,Multivariate,No,21,5.56,378,PReNet,0.92,0.47,0.67,0.37,1,20,Semi-supervised
+ALOI,Multivariate,No,1508,3.04,49534,RN-Net,0.71,0.39,0.57,0.29,226,1282,Supervised
+annthyroid,Multivariate,No,534,7.42,7200,RN-Net,0.93,0.78,0.83,0.73,80,454,Supervised
+backdoor,Multivariate,No,2329,2.44,95329,RN-Net,0.99,0.78,0.98,0.65,349,1980,Supervised
+breastw,Multivariate,No,239,34.99,683,RN-Net,0.98,0.96,0.95,0.97,36,203,Supervised
+campaign,Multivariate,No,4640,11.27,41188,RN-Net,0.71,0.61,0.51,0.76,696,3944,Supervised
+cardio,Multivariate,No,176,9.61,1831,RN-Net,0.96,0.9,0.89,0.9,26,150,Supervised
+Cardiotocography,Multivariate,No,466,22.04,2114,RN-Net,0.84,0.78,0.7,0.88,70,396,Supervised
+celeba,Multivariate,No,4547,2.24,202599,RN-Net,0.89,0.41,0.9,0.26,682,3865,Supervised
+cover,Multivariate,No,2747,0.96,286048,RN-Net,1,1,1,1,412,2335,Supervised
+donors,Multivariate,No,36710,5.93,619326,RN-Net,0.98,0.95,1,0.9,5507,31203,Supervised
+fault,Multivariate,No,673,34.67,1941,RN-Net,0.68,0.59,0.44,0.89,101,572,Supervised
+fraud,Multivariate,No,492,0.17,284807,RN-Net,0.92,0.31,0.83,0.19,74,418,Supervised
+glass,Multivariate,No,9,4.21,214,RN-Net,0.99,0.89,1,0.8,1,8,Supervised
+Hepatitis,Multivariate,No,13,16.25,80,RN-Net,0.83,0.77,0.83,0.71,2,11,Supervised
+http,Multivariate,No,2211,0.39,567498,RN-Net,0.95,0.94,0.95,0.92,332,1879,Supervised
+InternetAds,Multivariate,No,368,18.72,1966,RN-Net,0.93,0.85,0.86,0.84,55,313,Supervised
+Ionosphere,Multivariate,No,126,35.9,351,RN-Net,0.97,0.92,0.89,0.96,19,107,Supervised
+landsat,Multivariate,No,1333,20.71,6435,RN-Net,0.88,0.78,0.8,0.76,200,1133,Supervised
+letter,Multivariate,No,100,6.25,1600,RN-Net,0.84,0.32,0.8,0.3,15,85,Supervised
+Lymphography,Multivariate,No,6,4.05,148,RN-Net,0.74,0.67,0.67,0.67,1,5,Supervised
+magic.gamma,Multivariate,No,260,1.37,19020,RN-Net,0.63,0.6,0.45,0.91,39,221,Supervised
+mammography,Multivariate,No,260,2.32,11183,RN-Net,0.89,0.54,0.71,0.44,39,221,Supervised
+mnist,Multivariate,No,700,9.21,7603,RN-Net,0.98,0.91,0.94,0.89,105,595,Supervised
+musk,Multivariate,No,97,3.17,3062,RN-Net,0.97,0.91,0.9,0.91,15,82,Supervised
+optdigits,Multivariate,No,150,2.88,5216,RN-Net,1,1,1,1,23,127,Supervised
+PageBlocks,Multivariate,No,510,9.46,5393,RN-Net,1,1,1,1,77,433,Supervised
+pendigits,Multivariate,No,156,2.27,6870,RN-Net,0.79,0.73,0.64,0.84,23,133,Supervised
+Pima,Multivariate,No,268,34.9,768,RN-Net,0.99,0.57,0.98,0.4,40,228,Supervised
+satellite,Multivariate,No,2036,31.64,6435,RN-Net,0.7,0.61,0.48,0.84,305,1731,Supervised
+satimage-2,Multivariate,No,71,1.22,5803,RN-Net,0.97,0.92,0.9,0.95,11,60,Supervised
+shuttle,Multivariate,No,3511,7.15,49097,RN-Net,1,0.78,1,0.64,527,2984,Supervised
+skin,Multivariate,No,50859,20.75,245057,RN-Net,1,1,1,1,7629,43230,Supervised
+smtp,Multivariate,No,30,0.03,95156,RN-Net,0.76,0.76,0.62,1,5,25,Supervised
+SpamBase,Multivariate,No,1679,39.91,4207,RN-Net,0.84,0.84,0.72,1,252,1427,Supervised
+speech,Multivariate,No,61,1.65,3686,RN-Net,0.91,0.85,0.78,0.93,9,52,Supervised
+Stamps,Multivariate,No,31,9.12,340,RN-Net,0.57,0.1,0.71,0.06,5,26,Supervised
+thyroid,Multivariate,No,93,2.47,3772,RN-Net,0.94,0.81,0.96,0.7,14,79,Supervised
+vertebral,Multivariate,No,30,12.5,240,RN-Net,1,0.86,1,0.75,5,25,Supervised
+vowels,Multivariate,No,50,3.43,1456,RN-Net,0.89,0.75,0.69,0.82,8,42,Supervised
+Waveform,Multivariate,No,100,2.9,3443,RN-Net,0.99,0.8,1,0.67,15,85,Supervised
+WBC,Multivariate,No,10,4.48,223,RN-Net,0.82,0.45,0.58,0.36,2,8,Supervised
+WDBC,Multivariate,No,10,2.72,367,RN-Net,0.97,0.72,1,0.56,2,8,Supervised
+Wilt,Multivariate,No,257,5.33,4819,RN-Net,1,1,1,1,39,218,Supervised
+wine,Multivariate,No,10,7.75,129,RN-Net,0.88,0.59,0.78,0.47,2,8,Supervised
+WPBC,Multivariate,No,47,23.74,198,RN-Net,1,1,1,1,7,40,Supervised
+yeast,Multivariate,No,507,34.16,1484,RN-Net,0.87,0.81,0.8,0.82,76,431,Supervised
+CIFAR10,Multivariate,No,263,5,5263,RN-Net,0.77,0.77,0.74,0.81,39,224,Supervised
+FashionMNIST,Multivariate,No,315,5,6315,RN-Net,0.72,0.43,0.63,0.33,47,268,Supervised
+MNIST-C,Multivariate,No,500,5,10000,RN-Net,1,0.98,0.99,0.97,75,425,Supervised
+MVTec-AD,Multivariate,No,63,21.5,292,RN-Net,0.97,0.93,0.91,0.96,9,54,Supervised
+SVHN,Multivariate,No,260,5,5208,RN-Net,0.81,0.53,0.59,0.49,39,221,Supervised
+Agnews,Multivariate,No,500,5,10000,RN-Net,0.81,0.46,0.73,0.33,75,425,Supervised
+Amazon,Multivariate,No,500,5,10000,RN-Net,0.67,0.32,0.54,0.23,75,425,Supervised
+Imdb,Multivariate,No,500,5,10000,RN-Net,0.79,0.46,0.64,0.36,75,425,Supervised
+Yelp,Multivariate,No,500,5,10000,RN-Net,0.68,0.42,0.51,0.36,75,425,Supervised
+20newsgroups,Multivariate,No,155,5,3090,RN-Net,0.75,0.46,0.54,0.41,23,132,Supervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,RN-Net,0.57,0.23,0.37,0.17,33,186,Supervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,RN-Net,0.54,0.4,0.4,0.4,670,3796,Supervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,RN-Net,0.56,0.3,0.31,0.33,632,3584,Supervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,RN-Net,0.81,0.69,0.79,0.66,461,2614,Supervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,RN-Net,0.07,0.08,0.04,0.85,5634,31925,Supervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,RN-Net,0.64,0.43,0.55,0.36,325,1842,Supervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,RN-Net,0.82,0.32,0.72,0.21,471,2667,Supervised
+ecoli,Multivariate,No,9,2.68,336,RN-Net,0.99,0.6,1,0.44,1,8,Supervised
+cmc,Multivariate,No,17,1.15,1473,RN-Net,0.97,0.27,1,0.15,3,14,Supervised
+lympho h,Multivariate,No,6,4.05,148,RN-Net,0.87,0.64,0.8,0.64,1,5,Supervised
+wbc h,Multivariate,No,21,5.56,378,RN-Net,0.99,0.92,1,0.85,3,18,Supervised
+yahoo1,Univariate,yes,2,0.14,1420,LOF,0.95,0.03,1,0.01,-,- ,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,LOF,0.95,0.11,1,0.06,-,- ,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,LOF,0.95,0.11,1,0.06,-,- ,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,LOF,0.62,0.04,0.33,0.02,-,- ,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,LOF,0.95,0.05,1,0.03,-,- ,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,LOF,0.63,0.04,0.36,0.02,-,- ,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,LOF,0.55,0.02,0.2,0.01,-,- ,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,LOF,0.55,0.02,0.2,0.01,-,- ,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,LOF,0.99,0.03,1,0.01,-,- ,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,LOF,0.83,0.06,0.75,0.03,-,- ,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,LOF,0.98,0.04,1,0.02,-,- ,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,LOF,0.78,0.02,0.67,0.01,-,- ,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,LOF,0.95,0.01,1,0.01,-,- ,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,LOF,0.95,0.01,1,0,-,- ,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,LOF,0.95,0.02,1,0.01,-,- ,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,LOF,0.95,0.16,1,0.08,-,- ,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,LOF,0.96,0.23,1,0.13,-,- ,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,LOF,0.87,0.18,0.83,0.1,-,- ,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,LOF,0.74,0.14,0.58,0.08,-,- ,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,LOF,0.59,0.05,0.29,0.03,-,- ,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,LOF,0.62,0.07,0.33,0.04,-,- ,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,LOF,0.58,0.05,0.25,0.03,-,- ,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,LOF,0.95,0.19,1,0.11,-,- ,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,LOF,0.95,0.02,1,0.01,-,- ,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,LOF,1,0.17,1,0.09,-,- ,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,LOF,0.95,0.01,1,0.01,-,- ,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,LOF,0.95,0.17,0.05,0.1,-,- ,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,LOF,0.6,0.05,0.02,0.02,-,- ,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,LOF,0.95,0.13,0.07,0.07,-,- ,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,Iforest,0.94,0.02,1,0.01,-,- ,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,Iforest,0.94,0.08,1,0.04,-,- ,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,Iforest,0.94,0.09,1,0.04,-,- ,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,Iforest,0.77,0.06,0.67,0.03,-,- ,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,Iforest,0.94,0.04,1,0.02,-,- ,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,Iforest,0.71,0.05,0.55,0.03,-,- ,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,Iforest,0.54,0.02,0.2,0.01,-,- ,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,Iforest,0.54,0.02,0.2,0.01,-,- ,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,Iforest,0.95,0.01,1,0,-,- ,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,Iforest,0.94,0.06,1,0.03,-,- ,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,Iforest,0.94,0.01,1,0.01,-,- ,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,Iforest,0.77,0.01,0.67,0.01,-,- ,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,Iforest,0.94,0.01,1,0,-,- ,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,Iforest,0.94,0.01,1,0,-,- ,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,Iforest,0.94,0.01,1,0.01,-,- ,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,Iforest,0.94,0.12,1,0.06,-,- ,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,Iforest,0.94,0.18,1,0.1,-,- ,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,Iforest,0.94,0.18,1,0.1,-,- ,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,Iforest,0.87,0.17,0.84,0.09,-,- ,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,Iforest,0.94,0.15,1,0.08,-,- ,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,Iforest,0.8,0.13,0.71,0.07,-,- ,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,Iforest,0.54,0.04,0.2,0.02,-,- ,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,Iforest,0.94,0.15,1,0.08,-,- ,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,Iforest,0.94,0.02,1,0.01,-,- ,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,Iforest,0.96,0.02,1,0.01,-,- ,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,Iforest,0.94,0.01,1,0.01,-,- ,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,Iforest,0.88,0.06,1,0.03,-,- ,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,Iforest,0.95,0.13,1,0.07,-,- ,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,Iforest,0.94,0.1,1,0.05,-,- ,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,Autoencoders,0.9,0.01,1,0.01,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,Autoencoders,0.95,0.1,1,0.05,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,Autoencoders,0.95,0.1,1,0.05,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,Autoencoders,0.78,0.08,0.67,0.04,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,Autoencoders,0.95,0.05,1,0.03,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,Autoencoders,0.45,0,0,0,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,Autoencoders,0.5,0.01,0.1,0.01,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,Autoencoders,0.95,0.09,1,0.05,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,Autoencoders,0.95,0.01,1,0,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,Autoencoders,0.95,0.06,1,0.03,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,Autoencoders,0.93,0.01,1,0.01,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,Autoencoders,0.78,0.02,0.67,0.01,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,Autoencoders,0.95,0.01,1,0.01,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,Autoencoders,0.95,0.01,1,0,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,Autoencoders,0.95,0.02,1,0.01,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,Autoencoders,0.95,0.16,1,0.08,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,Autoencoders,0.95,0.21,1,0.12,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,Autoencoders,0.93,0.2,0.94,0.11,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,Autoencoders,0.88,0.2,0.84,0.11,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,Autoencoders,0.59,0.05,0.29,0.03,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,Autoencoders,0.67,0.09,0.43,0.05,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,Autoencoders,0.52,0.03,0.15,0.02,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,Autoencoders,0.95,0.19,1,0.11,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,Autoencoders,0.95,0.02,1,0.01,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,Autoencoders,0.75,0,1,0,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,Autoencoders,0.95,0.01,1,0.01,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,Autoencoders,0.45,0,0,0,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,Autoencoders,0.45,0,0,0,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,Autoencoders,0.55,0.03,0.2,0.01,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,DAGMM,0.95,0.03,1,0.01,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,DAGMM,0.95,0.1,1,0.05,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,DAGMM,0.89,0.09,0.88,0.05,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,DAGMM,0.78,0.08,0.67,0.04,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,DAGMM,0.95,0.05,1,0.03,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,DAGMM,0.68,0.06,0.45,0.03,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,DAGMM,0.55,0.02,0.2,0.01,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,DAGMM,0.95,0.09,1,0.05,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,DAGMM,0.93,0.01,1,0,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,DAGMM,0.95,0.07,1,0.04,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,DAGMM,0.91,0.01,1,0,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,DAGMM,0.78,0.02,0.67,0.01,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,DAGMM,0.95,0.01,1,0.01,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,DAGMM,0.95,0.01,1,0,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,DAGMM,0.5,0,0,0,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,DAGMM,0.95,0.16,1,0.08,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,DAGMM,0.95,0.22,1,0.12,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,DAGMM,0.93,0.2,0.94,0.11,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,DAGMM,0.88,0.2,0.84,0.11,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,DAGMM,0.59,0.05,0.29,0.03,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,DAGMM,0.71,0.01,0.52,0.07,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,DAGMM,0.5,0,0,0,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,DAGMM,0.58,0.05,0.25,0.03,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,DAGMM,0.95,0.02,1,0.01,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,DAGMM,0.86,0.01,1,0,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,DAGMM,0.95,0.01,1,0.01,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,DAGMM,0.85,0.14,0.82,0.08,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,DAGMM,0.95,0.15,1,0.08,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,DAGMM,0.95,0.12,1,0.07,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,Elliptic Envelope,0.95,0.03,1,0.01,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,Elliptic Envelope,0.95,0.1,1,0.05,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,Elliptic Envelope,0.89,0.09,0.88,0.05,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,Elliptic Envelope,0.78,0.08,0.67,0.04,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,Elliptic Envelope,0.95,0.06,1,0.03,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,Elliptic Envelope,0.68,0.05,0.45,0.03,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,Elliptic Envelope,0.55,0.02,0.2,0.01,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,Elliptic Envelope,0.55,0.02,0.2,0.01,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,Elliptic Envelope,0.95,0.01,1,0,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,Elliptic Envelope,0.95,0.06,1,0.03,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,Elliptic Envelope,0.95,0.02,1,0.01,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,Elliptic Envelope,0.79,0.02,0.67,0.01,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,Elliptic Envelope,0.95,0.01,1,0.01,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,Elliptic Envelope,0.95,0.01,1,0,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,Elliptic Envelope,0.95,0.02,1,0.01,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,Elliptic Envelope,0.95,0.14,1,0.08,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,Elliptic Envelope,0.96,0.23,1,0.13,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,Elliptic Envelope,0.95,0.2,1,0.11,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,Elliptic Envelope,0.88,0.2,0.84,0.11,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,Elliptic Envelope,0.6,0.05,0.29,0.03,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,Elliptic Envelope,0.79,0.15,0.67,0.08,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,Elliptic Envelope,0.52,0.03,0.15,0.02,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,Elliptic Envelope,0.95,0.18,1,0.1,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,Elliptic Envelope,0.95,0.02,1,0.01,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,Elliptic Envelope,0.99,0.08,1,0.04,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,Elliptic Envelope,0.95,0.01,1,0.01,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,Elliptic Envelope,0.94,0.11,1,0.06,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,Elliptic Envelope,0.95,0.15,1,0.08,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,Elliptic Envelope,0.95,0.12,1,0.06,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,DevNet,0.95,0.03,1,0.01,1,1,Supervised
+yahoo2,Univariate,yes,8,0.55,1461,DevNet,0.96,0.12,1,0.06,1,7,Supervised
+yahoo3,Univariate,yes,8,0.56,1439,DevNet,0.95,0.11,1,0.06,1,7,Supervised
+yahoo5,Univariate,yes,9,0.63,1421,DevNet,0.45,0,0,0,1,8,Supervised
+yahoo6,Univariate,yes,4,0.28,1421,DevNet,0.95,0.05,1,0.03,1,3,Supervised
+yahoo7,Univariate,yes,11,0.65,1680,DevNet,0.5,0.01,0.09,0.01,1,10,Supervised
+yahoo8,Univariate,yes,10,0.6,1680,DevNet,0.55,0.02,0.2,0.01,1,9,Supervised
+yahoo9,Univariate,yes,8,0.48,1680,DevNet,0.63,0.03,0.38,0.02,1,7,Supervised
+Speed 6005,Univariate,yes,1,0.04,2500,DevNet,,0,,,1,0,Supervised
+Speed 7578,Univariate,yes,4,0.35,1127,DevNet,0.45,0,0,0,1,3,Supervised
+Speed t4013,Univariate,yes,2,0.08,2495,DevNet,0.46,0,0,0,1,1,Supervised
+TravelTime 387,Univariate,yes,3,0.12,2500,DevNet,0.78,0.02,0.67,0.01,1,2,Supervised
+TravelTime 451,Univariate,yes,1,0.05,2162,DevNet,,0,,,1,0,Supervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,DevNet,0.95,0.01,1,,1,0,Supervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,DevNet,,0.02,,,1,1,Supervised
+yahoo syn1,Univariate,yes,12,0.85,1420,DevNet,0.95,0.16,1,0.08,1,11,Supervised
+yahoo syn2,Univariate,yes,18,1.23,1461,DevNet,0.96,0.24,1,0.14,1,17,Supervised
+yahoo syn3,Univariate,yes,18,1.24,1449,DevNet,0.96,0.24,1,0.14,1,17,Supervised
+yahoo syn5,Univariate,yes,19,1.33,1431,DevNet,0.45,0,0,0,1,18,Supervised
+yahoo syn6,Univariate,yes,14,0.98,1431,DevNet,0.59,0.05,0.29,0.03,1,13,Supervised
+yahoo syn7,Univariate,yes,21,1.24,1690,DevNet,0.82,0.17,0.71,0.1,1,20,Supervised
+yahoo syn8,Univariate,yes,20,1.18,1690,DevNet,0.55,0.04,0.2,0.02,1,19,Supervised
+yahoo syn9,Univariate,yes,18,1.07,1690,DevNet,0.95,0.19,1,0.11,1,17,Supervised
+aws1,Univariate,yes,1,0.1,1049,DevNet,,0.02,,,1,0,Supervised
+aws2,Univariate,yes,2,0.08,2486,DevNet,0.96,0.02,1,0.01,1,1,Supervised
+aws3,Univariate,yes,1,0.07,1499,DevNet,,0.01,,,1,0,Supervised
+aws syn1,Univariate,yes,10,1.05,1049,DevNet,0.85,0.05,0.3,0.03,1,9,Supervised
+aws syn2,Univariate,yes,20,0.88,2486,DevNet,0.95,0.01,0.05,0,1,19,Supervised
+aws syn3,Univariate,yes,10,0.73,1499,DevNet,0.95,0.04,0.3,0.02,1,9,Supervised
+yahoo1,Univariate,yes,2,0.14,1420,GAN,0.7,0.01,0.5,0.01,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,GAN,0.45,0,0,0,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,GAN,0.45,0,0,0,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,GAN,0.45,0,0,0,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,GAN,0.5,0.01,1,0,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,GAN,0.5,0.01,1,0.01,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,GAN,0.5,0.01,1,0.01,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,GAN,0.45,0,0,0,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,GAN,0.94,0.01,1,0,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,GAN,0.95,0.07,1,0.04,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,GAN,0.94,0.01,1,0.01,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,GAN,0.45,0,0,0,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,GAN,0.45,0,0,0,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,GAN,0.45,0,0,0,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,GAN,0.45,0,0,0,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,GAN,0.45,0,0,0,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,GAN,0.45,0,0,0,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,GAN,0.45,0,0,0,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,GAN,0.5,0.03,1,0.01,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,GAN,0.5,0.02,1,0.01,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,GAN,0.5,0.02,1,0.01,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,GAN,0.5,0.02,1,0.01,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,GAN,0.45,0,0,0,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,GAN,0.45,0,0,0,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,GAN,0.41,0,0,0,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,GAN,0.45,0,0,0,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,GAN,0.45,0,0,0,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,GAN,0.5,0.02,1,0.01,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,GAN,0.45,0,0,0,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,MGBTAI,1,1,1,1,-,-,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,MGBTAI,0.62,0.4,0.25,1,-,-,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,MGBTAI,0.94,0.64,0.88,0.5,-,-,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,MGBTAI,0.67,0.5,0.33,1,-,-,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,MGBTAI,1,1,1,1,-,-,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,MGBTAI,0.68,0.42,0.36,0.5,-,-,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,MGBTAI,0.5,0.01,0.01,1,-,-,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,MGBTAI,0.81,0.77,0.62,1,-,-,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,MGBTAI,1,0.33,1,0.2,-,-,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,MGBTAI,0.86,0.16,0.75,0.09,-,-,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,MGBTAI,1,0.44,1,0.29,-,-,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,MGBTAI,0.83,0.09,0.67,0.05,-,-,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,MGBTAI,0.99,0.08,1,0.04,-,-,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,MGBTAI,1,0.12,1,0.06,-,-,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,MGBTAI,1,0.5,1,0.33,-,-,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,MGBTAI,0.58,0.29,0.17,1,-,-,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,MGBTAI,0.64,0.43,0.28,1,-,-,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,MGBTAI,0.86,0.76,0.72,0.81,-,-,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,MGBTAI,0.71,0.59,0.42,1,-,-,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,MGBTAI,0.64,0.44,0.29,1,-,-,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,MGBTAI,0.62,0.33,0.24,0.56,-,-,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,MGBTAI,0.53,0.1,0.05,1,-,-,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,MGBTAI,0.53,0.11,0.06,1,-,-,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,MGBTAI,1,1,1,1,-,-,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,MGBTAI,0.75,0.67,0.5,1,-,-,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,MGBTAI,1,0.67,1,0.5,-,-,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,MGBTAI,0.95,0.9,0.9,0.9,-,-,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,MGBTAI,1,0.8,1,0.67,-,-,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,MGBTAI,0.95,0.9,0.9,0.9,-,-,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,q-LSTM (tanh),0.99,0.15,1,0.08,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,q-LSTM (tanh),0.58,0.03,0.25,0.02,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,q-LSTM (tanh),0.99,0.4,1,0.25,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,q-LSTM (tanh),0.73,0.04,0.67,0.02,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,q-LSTM (tanh),0.95,0.05,1,0.03,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,q-LSTM (tanh),0.67,0.12,0.36,0.07,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,q-LSTM (tanh),0.62,0.05,0.3,0.03,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,q-LSTM (tanh),0.73,0.04,0.63,0.02,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,q-LSTM (tanh),0.99,0.03,1,0.01,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,q-LSTM (tanh),0.62,0.33,0.25,0.5,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,q-LSTM (tanh),0.95,0.02,1,0.01,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,q-LSTM (tanh),0.64,0.01,0.33,0.01,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,q-LSTM (tanh),0.5,0,0,0,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,q-LSTM (tanh),0.98,0.02,1,0.01,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,q-LSTM (tanh),1,0.16,1,0.09,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,q-LSTM (tanh),0.96,0.16,1,0.09,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,q-LSTM (tanh),0.75,0.67,0.5,1,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,q-LSTM (tanh),0.75,0.11,0.61,0.06,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,q-LSTM (tanh),0.78,0.1,0.74,0.06,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,q-LSTM (tanh),0.84,0.08,0.86,0.04,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,q-LSTM (tanh),0.79,0.3,0.62,0.2,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,q-LSTM (tanh),0.67,0.12,0.4,0.07,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,q-LSTM (tanh),0.63,0.16,0.28,0.12,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,q-LSTM (tanh),0.99,0.07,1,0.04,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,q-LSTM (tanh),0.91,0.01,1,0.01,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,q-LSTM (tanh),0.95,0.01,1,0.01,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,q-LSTM (tanh),0.98,0.37,1,0.22,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,q-LSTM (tanh),0.92,0.09,1,0.05,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,q-LSTM (tanh),1,1,1,1,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,q-LSTM (sigmoid),0.97,0.04,1,0.02,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,q-LSTM (sigmoid),0.84,0.33,0.63,0.22,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,q-LSTM (sigmoid),0.94,0.82,0.88,0.78,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,q-LSTM (sigmoid),0.55,0.02,0.33,0.01,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,q-LSTM (sigmoid),0.9,0.03,1,0.01,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,q-LSTM (sigmoid),0.75,0.13,0.55,0.07,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,q-LSTM (sigmoid),0.62,0.05,0.3,0.03,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,q-LSTM (sigmoid),0.88,0.86,0.75,1,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,q-LSTM (sigmoid),0.98,0.02,1,0.01,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,q-LSTM (sigmoid),0.62,0.33,0.25,0.5,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,q-LSTM (sigmoid),0.99,0.07,1,0.03,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,q-LSTM (sigmoid),0.62,0.01,0.33,0,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,q-LSTM (sigmoid),0.97,0.01,1,0.01,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,q-LSTM (sigmoid),0.98,0.02,1,0.01,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,q-LSTM (sigmoid),0.95,0.02,1,0.01,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,q-LSTM (sigmoid),0.95,0.15,1,0.08,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,q-LSTM (sigmoid),0.65,0.05,0.61,0.02,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,q-LSTM (sigmoid),0.72,0.62,0.44,1,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,q-LSTM (sigmoid),0.75,0.07,0.74,0.04,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,q-LSTM (sigmoid),0.86,0.11,0.86,0.06,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,q-LSTM (sigmoid),0.8,0.37,0.62,0.26,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,q-LSTM (sigmoid),0.67,0.12,0.4,0.07,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,q-LSTM (sigmoid),0.86,0.84,0.72,1,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,q-LSTM (sigmoid),0.98,0.05,1,0.03,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,q-LSTM (sigmoid),0.97,0.03,1,0.01,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,q-LSTM (sigmoid),0.96,0.02,1,0.01,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,q-LSTM (sigmoid),0.79,0.15,0.64,0.08,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,q-LSTM (sigmoid),0.85,0.08,0.86,0.04,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,q-LSTM (sigmoid),0.79,0.11,0.64,0.06,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,QReg,0.49,0,0,0,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,QReg,0.8,0.28,0.63,0.18,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,QReg,0.86,0.26,0.75,0.15,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,QReg,0.49,0,0,0,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,QReg,0.5,0.01,1,0,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,QReg,0.49,0,0,0,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,QReg,0.49,0,0,0,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,QReg,0.51,0.01,0.88,0,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,QReg,0.46,0,0,0,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,QReg,0.61,0.32,0.24,0.5,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,QReg,0.99,0.08,1,0.04,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,QReg,0.48,0,0.33,0,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,QReg,0.49,0,0,0,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,QReg,0.49,0,0,0,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,QReg,0.9,0.01,1,0,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,QReg,0.53,0.04,0.08,0.03,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,QReg,0.49,0,0,0,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,QReg,0.67,0.13,0.39,0.08,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,QReg,0.49,0,0,0,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,QReg,0.5,0.02,1,0.01,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,QReg,0.47,0.02,0.19,0.01,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,QReg,0.65,0.34,1,0.2,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,QReg,0.48,0.02,0.89,0.01,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,QReg,0.98,0.04,1,0.02,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,QReg,0.49,0,0,0,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,QReg,0.97,0.02,1,0.01,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,QReg,0.98,0.04,1,0.02,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,QReg,0.49,0,0,0,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,QReg,0.97,0.02,1,0.01,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,q-LSTM (PEF),0.99,0.09,1,0.05,0,2,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,q-LSTM (PEF),0.69,0.55,0.38,1,0,8,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,q-LSTM (PEF),0.99,0.44,1,0.28,0,8,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,q-LSTM (PEF),0.74,0.04,0.66,0.02,0,9,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,q-LSTM (PEF),0.95,0.05,1,0.03,0,4,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,q-LSTM (PEF),0.74,0.12,0.54,0.07,0,11,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,q-LSTM (PEF),0.62,0.05,0.3,0.03,0,10,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,q-LSTM (PEF),0.79,0.04,0.75,0.02,0,8,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,q-LSTM (PEF),0.97,0.03,1,0.01,0,1,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,q-LSTM (PEF),0.98,0.16,1,0.09,0,4,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,q-LSTM (PEF),0.99,0.1,1,0.05,0,2,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,q-LSTM (PEF),0.8,0.02,0.67,0.01,0,3,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,q-LSTM (PEF),0.96,0.01,1,0.01,0,1,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,q-LSTM (PEF),0.99,0.06,1,0.03,0,1,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,q-LSTM (PEF),0.99,0.11,1,0.06,0,2,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,q-LSTM (PEF),0.99,0.55,1,0.38,0,12,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,q-LSTM (PEF),0.81,0.76,0.61,1,0,18,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,q-LSTM (PEF),1,0.75,1,0.6,0,18,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,q-LSTM (PEF),0.73,0.11,0.58,0.06,0,19,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,q-LSTM (PEF),0.96,0.84,0.93,0.76,0,14,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,q-LSTM (PEF),0.82,0.51,0.66,0.41,0,21,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,q-LSTM (PEF),0.83,0.31,0.7,0.2,0,20,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,q-LSTM (PEF),0.97,0.97,0.94,1,0,18,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,q-LSTM (PEF),0.99,0.08,1,0.04,0,1,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,q-LSTM (PEF),0.9,0.01,1,0,0,2,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,q-LSTM (PEF),0.98,0.04,1,0.02,0,1,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,q-LSTM (PEF),0.98,0.99,1,0.08,0,10,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,q-LSTM (PEF),0.92,0.9,1,0,0,20,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,q-LSTM (PEF),1,0.98,1,0.06,0,10,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,dBTAI,,,,,-,-,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,dBTAI,0.85,0.04,1,0.02,-,-,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,dBTAI,0.93,0.42,0.88,0.28,-,-,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,dBTAI,0.76,0.03,1,0.01,-,-,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,dBTAI,0.8,0.01,1,0.01,-,-,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,dBTAI,0.67,0.02,0.73,0.01,-,-,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,dBTAI,0.56,0.01,0.6,0.01,-,-,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,dBTAI,0.81,0.03,1,0.01,-,-,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,dBTAI,0.99,0.05,1,0.03,-,-,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,dBTAI,,,,,-,-,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,dBTAI,,,,,-,-,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,dBTAI,0.8,0.02,0.67,0.01,-,-,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,dBTAI,0.97,0.02,1,0.01,-,-,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,dBTAI,0.97,0.02,1,0.01,-,-,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,dBTAI,0.98,0.05,1,0.03,-,-,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,dBTAI,,,,,-,-,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,dBTAI,0.87,0.37,0.78,0.25,-,-,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,dBTAI,0.97,0.87,0.95,0.81,-,-,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,dBTAI,0.57,0.03,0.58,0.02,-,-,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,dBTAI,0.8,0.05,1,0.02,-,-,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,dBTAI,0.69,0.05,0.76,0.02,-,-,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,dBTAI,0.56,0.03,0.6,0.01,-,-,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,dBTAI,0.86,0.07,1,0.04,-,-,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,dBTAI,0.83,0.01,1,0,-,-,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,dBTAI,,,,,-,-,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,dBTAI,0.83,0,1,0,-,-,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,dBTAI,0.87,0.07,1,0.04,-,-,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,dBTAI,,,,,-,-,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,dBTAI,0.86,0.05,1,0.02,-,-,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,FTT,1,0.67,0.5,1,1,1,Supervised
+yahoo2,Univariate,yes,8,0.55,1461,FTT,1,0.88,0.88,0.88,1,7,Supervised
+yahoo3,Univariate,yes,8,0.56,1439,FTT,0.92,0.86,0.75,1,1,7,Supervised
+yahoo5,Univariate,yes,9,0.63,1421,FTT,0.63,0.01,0.67,0.01,1,8,Supervised
+yahoo6,Univariate,yes,4,0.28,1421,FTT,1,0.5,0.5,0.5,1,3,Supervised
+yahoo7,Univariate,yes,11,0.65,1680,FTT,0.84,0.03,0.82,0.02,1,10,Supervised
+yahoo8,Univariate,yes,10,0.6,1680,FTT,0.68,0.02,0.8,0.01,1,9,Supervised
+yahoo9,Univariate,yes,8,0.48,1680,FTT,1,0.93,0.88,1,1,7,Supervised
+Speed 6005,Univariate,yes,1,0.04,2500,FTT,,,,,1,0,Supervised
+Speed 7578,Univariate,yes,4,0.35,1127,FTT,0.99,0.26,1,0.12,1,3,Supervised
+Speed t4013,Univariate,yes,2,0.08,2495,FTT,1,0.8,1,1,1,1,Supervised
+TravelTime 387,Univariate,yes,3,0.12,2500,FTT,0.77,0.08,0.67,0.05,1,2,Supervised
+TravelTime 451,Univariate,yes,1,0.05,2162,FTT,,,,,1,0,Supervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,FTT,,,,,1,0,Supervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,FTT,1,0.67,0.5,1,1,1,Supervised
+yahoo syn1,Univariate,yes,12,0.85,1420,FTT,1,0.96,0.92,1,1,11,Supervised
+yahoo syn2,Univariate,yes,18,1.23,1461,FTT,1,0.94,0.94,0.94,1,17,Supervised
+yahoo syn3,Univariate,yes,18,1.24,1449,FTT,0.99,0.91,0.89,0.94,1,17,Supervised
+yahoo syn5,Univariate,yes,19,1.33,1431,FTT,0.92,0.44,0.79,0.31,1,18,Supervised
+yahoo syn6,Univariate,yes,14,0.98,1431,FTT,0.63,0.09,0.64,0.05,1,13,Supervised
+yahoo syn7,Univariate,yes,21,1.24,1690,FTT,0.84,0.07,0.9,0.03,1,20,Supervised
+yahoo syn8,Univariate,yes,20,1.18,1690,FTT,0.28,0,0,0,1,19,Supervised
+yahoo syn9,Univariate,yes,18,1.07,1690,FTT,1,0.97,0.94,1,1,17,Supervised
+aws1,Univariate,yes,1,0.1,1049,FTT,,,,,1,0,Supervised
+aws2,Univariate,yes,2,0.08,2486,FTT,1,0.17,0.5,0.1,1,1,Supervised
+aws3,Univariate,yes,1,0.07,1499,FTT,,,,,1,0,Supervised
+aws syn1,Univariate,yes,10,1.05,1049,FTT,1,0.9,0.9,0.9,1,9,Supervised
+aws syn2,Univariate,yes,20,0.88,2486,FTT,1,0.78,0.95,0.66,1,19,Supervised
+aws syn3,Univariate,yes,10,0.73,1499,FTT,1,0.9,0.9,0.9,1,9,Supervised
+yahoo1,Univariate,yes,2,0.14,1420,PReNet,1,0.67,0.5,1,1,1,Semi-supervised
+yahoo2,Univariate,yes,8,0.55,1461,PReNet,1,0.88,0.88,0.88,1,7,Semi-supervised
+yahoo3,Univariate,yes,8,0.56,1439,PReNet,0.99,0.13,0.88,0.07,1,7,Semi-supervised
+yahoo5,Univariate,yes,9,0.63,1421,PReNet,0.25,0.01,0.22,0,1,8,Semi-supervised
+yahoo6,Univariate,yes,4,0.28,1421,PReNet,0,0,0,0,1,3,Semi-supervised
+yahoo7,Univariate,yes,11,0.65,1680,PReNet,0.53,0.01,0.55,0.01,1,10,Semi-supervised
+yahoo8,Univariate,yes,10,0.6,1680,PReNet,0.68,0.02,0.8,0.01,1,9,Semi-supervised
+yahoo9,Univariate,yes,8,0.48,1680,PReNet,0.63,0.67,0.5,1,1,7,Semi-supervised
+Speed 6005,Univariate,yes,1,0.04,2500,PReNet,,,,,1,0,Semi-supervised
+Speed 7578,Univariate,yes,4,0.35,1127,PReNet,1,0,0,0.12,1,3,Semi-supervised
+Speed t4013,Univariate,yes,2,0.08,2495,PReNet,1,0,0,0.5,1,1,Semi-supervised
+TravelTime 387,Univariate,yes,3,0.12,2500,PReNet,0.8,0.08,0.33,0.05,1,2,Semi-supervised
+TravelTime 451,Univariate,yes,1,0.05,2162,PReNet,,,,,1,0,Semi-supervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,PReNet,,,,,1,0,Semi-supervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,PReNet,1,0.67,0.5,1,1,1,Semi-supervised
+yahoo syn1,Univariate,yes,12,0.85,1420,PReNet,1,0.96,0.92,1,1,11,Semi-supervised
+yahoo syn2,Univariate,yes,18,1.23,1461,PReNet,1,0.94,0.94,0.94,1,17,Semi-supervised
+yahoo syn3,Univariate,yes,18,1.24,1449,PReNet,1,0.31,0.94,0.19,1,17,Semi-supervised
+yahoo syn5,Univariate,yes,19,1.33,1431,PReNet,0.91,0.42,0.79,0.28,1,18,Semi-supervised
+yahoo syn6,Univariate,yes,14,0.98,1431,PReNet,0.62,0.08,0.64,0.04,1,13,Semi-supervised
+yahoo syn7,Univariate,yes,21,1.24,1690,PReNet,0.32,0.02,0.19,0.01,1,20,Semi-supervised
+yahoo syn8,Univariate,yes,20,1.18,1690,PReNet,0.25,0,0,0,1,19,Semi-supervised
+yahoo syn9,Univariate,yes,18,1.07,1690,PReNet,0.83,0.88,0.78,1,1,17,Semi-supervised
+aws1,Univariate,yes,1,0.1,1049,PReNet,,,,,1,0,Semi-supervised
+aws2,Univariate,yes,2,0.08,2486,PReNet,1,0.17,0.5,0.1,1,1,Semi-supervised
+aws3,Univariate,yes,1,0.07,1499,PReNet,,,,,1,0,Semi-supervised
+aws syn1,Univariate,yes,10,1.05,1049,PReNet,1,0.86,0.9,0.82,1,9,Semi-supervised
+aws syn2,Univariate,yes,20,0.88,2486,PReNet,1,0.78,0.95,0.66,1,19,Semi-supervised
+aws syn3,Univariate,yes,10,0.73,1499,PReNet,1,0.86,0.9,0.82,1,9,Semi-supervised
+yahoo1,Univariate,yes,2,0.14,1420,RN-Net,1,1,1,1,1,1,Supervised
+yahoo2,Univariate,yes,8,0.55,1461,RN-Net,0.99,0.94,1,0.88,1,7,Supervised
+yahoo3,Univariate,yes,8,0.56,1439,RN-Net,1,1,1,1,1,7,Supervised
+yahoo5,Univariate,yes,9,0.63,1421,RN-Net,0.65,0.15,0.67,0.08,1,8,Supervised
+yahoo6,Univariate,yes,4,0.28,1421,RN-Net,1,1,1,1,1,3,Supervised
+yahoo7,Univariate,yes,11,0.65,1680,RN-Net,0.82,0.11,0.8,0.06,2,9,Supervised
+yahoo8,Univariate,yes,10,0.6,1680,RN-Net,0.97,0.94,0.89,1,2,8,Supervised
+yahoo9,Univariate,yes,8,0.48,1680,RN-Net,1,1,1,1,1,7,Supervised
+Speed 6005,Univariate,yes,1,0.04,2500,RN-Net,0.99,0.67,1,0.5,1,0,Supervised
+Speed 7578,Univariate,yes,4,0.35,1127,RN-Net,0.84,0.27,0.75,0.17,1,3,Supervised
+Speed t4013,Univariate,yes,2,0.08,2495,RN-Net,1,1,1,1,1,1,Supervised
+TravelTime 387,Univariate,yes,3,0.12,2500,RN-Net,0.74,0.26,0.67,0.16,1,2,Supervised
+TravelTime 451,Univariate,yes,1,0.05,2162,RN-Net,1,1,1,1,1,0,Supervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,RN-Net,1,1,1,1,1,0,Supervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,RN-Net,1,1,1,1,1,1,Supervised
+yahoo syn1,Univariate,yes,12,0.85,1420,RN-Net,1,1,1,1,2,10,Supervised
+yahoo syn2,Univariate,yes,18,1.23,1461,RN-Net,0.99,0.97,1,0.94,3,15,Supervised
+yahoo syn3,Univariate,yes,18,1.24,1449,RN-Net,1,1,1,1,3,15,Supervised
+yahoo syn5,Univariate,yes,19,1.33,1431,RN-Net,0.98,0.41,1,0.26,3,16,Supervised
+yahoo syn6,Univariate,yes,14,0.98,1431,RN-Net,0.98,0.95,0.91,1,2,12,Supervised
+yahoo syn7,Univariate,yes,21,1.24,1690,RN-Net,0.84,0.2,0.78,0.12,3,18,Supervised
+yahoo syn8,Univariate,yes,20,1.18,1690,RN-Net,0.96,0.97,0.94,1,3,17,Supervised
+yahoo syn9,Univariate,yes,18,1.07,1690,RN-Net,1,1,1,1,3,15,Supervised
+aws1,Univariate,yes,1,0.1,1049,RN-Net,1,1,1,1,1,0,Supervised
+aws2,Univariate,yes,2,0.08,2486,RN-Net,0.5,0.67,0.5,1,1,1,Supervised
+aws3,Univariate,yes,1,0.07,1499,RN-Net,1,1,1,1,1,0,Supervised
+aws syn1,Univariate,yes,10,1.05,1049,RN-Net,0.99,0.95,1,0.9,2,8,Supervised
+aws syn2,Univariate,yes,20,0.88,2486,RN-Net,0.99,0.89,1,0.81,3,17,Supervised
+aws syn3,Univariate,yes,10,0.73,1499,RN-Net,0.99,0.95,1,0.9,2,8,Supervised
+yahoo1,Univariate,yes,2,0.14,1420,RN-LSTM,0.71,0.03,1,0.02,1,1,Supervised
+yahoo2,Univariate,yes,8,0.55,1461,RN-LSTM,0.39,0.09,0.29,0.05,1,7,Supervised
+yahoo3,Univariate,yes,8,0.56,1439,RN-LSTM,0.1,0,0,0,1,7,Supervised
+yahoo5,Univariate,yes,9,0.63,1421,RN-LSTM,0.4,0.05,1,0.03,1,8,Supervised
+yahoo6,Univariate,yes,4,0.28,1421,RN-LSTM,0.96,0.16,1,0.09,1,3,Supervised
+yahoo7,Univariate,yes,11,0.65,1680,RN-LSTM,0.49,0.2,0.3,0.15,2,9,Supervised
+yahoo8,Univariate,yes,10,0.6,1680,RN-LSTM,0.21,0.12,0.11,0.13,2,8,Supervised
+yahoo9,Univariate,yes,8,0.48,1680,RN-LSTM,0.91,0.16,0.86,0.09,1,7,Supervised
+Speed 6005,Univariate,yes,1,0.04,2500,RN-LSTM,0.47,0.01,1,0,1,0,Supervised
+Speed 7578,Univariate,yes,4,0.35,1127,RN-LSTM,0.03,0.02,1,0.01,1,3,Supervised
+Speed t4013,Univariate,yes,2,0.08,2495,RN-LSTM,0.63,0.04,0.5,0.02,1,1,Supervised
+TravelTime 387,Univariate,yes,3,0.12,2500,RN-LSTM,0.93,0.07,1,0.04,1,2,Supervised
+TravelTime 451,Univariate,yes,1,0.05,2162,RN-LSTM,0.33,0,1,0,1,0,Supervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,RN-LSTM,0.74,0.01,1,0.01,1,0,Supervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,RN-LSTM,0.65,0.01,1,0.01,1,1,Supervised
+yahoo syn1,Univariate,yes,12,0.85,1420,RN-LSTM,0.57,0.09,0.91,0.04,2,10,Supervised
+yahoo syn2,Univariate,yes,18,1.23,1461,RN-LSTM,0.94,0.89,0.81,1,3,15,Supervised
+yahoo syn3,Univariate,yes,18,1.24,1449,RN-LSTM,0.96,0.97,0.94,1,3,15,Supervised
+yahoo syn5,Univariate,yes,19,1.33,1431,RN-LSTM,0.52,0.12,0.65,0.07,3,16,Supervised
+yahoo syn6,Univariate,yes,14,0.98,1431,RN-LSTM,0.58,0.21,0.42,0.14,2,12,Supervised
+yahoo syn7,Univariate,yes,21,1.24,1690,RN-LSTM,0.91,0.26,0.94,0.15,3,18,Supervised
+yahoo syn8,Univariate,yes,20,1.18,1690,RN-LSTM,0.46,0.15,0.18,0.14,3,17,Supervised
+yahoo syn9,Univariate,yes,18,1.07,1690,RN-LSTM,0.99,0.59,0.94,0.43,3,15,Supervised
+aws1,Univariate,yes,1,0.1,1049,RN-LSTM,0.07,0.01,1,0,1,0,Supervised
+aws2,Univariate,yes,2,0.08,2486,RN-LSTM,0.81,0.01,1,0.01,1,1,Supervised
+aws3,Univariate,yes,1,0.07,1499,RN-LSTM,0.05,0.01,1,0,1,0,Supervised
+aws syn1,Univariate,yes,10,1.05,1049,RN-LSTM,0.86,0.61,0.78,0.5,2,8,Supervised
+aws syn2,Univariate,yes,20,0.88,2486,RN-LSTM,0.98,0.94,0.94,0.94,3,17,Supervised
+aws syn3,Univariate,yes,10,0.73,1499,RN-LSTM,0.88,0.82,0.78,0.88,2,8,Supervised
+ALOI,Multivariate,No,1508,3.04,49534,K-Means (CBLOF),0.56,0.05,0.07,0.04,-,-,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,K-Means (CBLOF),0.67,0.29,0.24,0.36,-,-,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,K-Means (CBLOF),,,,,-,-,Unsupervised
+breastw,Multivariate,No,239,34.99,683,K-Means (CBLOF),0.96,0.23,0.13,0.89,-,-,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,K-Means (CBLOF),0.73,0.25,0.18,0.41,-,-,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,K-Means (CBLOF),0.82,0.35,0.27,0.51,-,-,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,K-Means (CBLOF),0.57,0.15,0.09,0.41,-,-,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,K-Means (CBLOF),0.73,0.11,0.17,0.08,-,-,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,K-Means (CBLOF),0.96,0.23,0.72,0.14,-,-,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,K-Means (CBLOF),0.76,0.11,0.11,0.13,-,-,Unsupervised
+fault,Multivariate,No,673,34.67,1941,K-Means (CBLOF),0.64,0.15,0.08,0.58,-,-,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,K-Means (CBLOF),0.94,0.06,0.87,0.03,-,-,Unsupervised
+glass,Multivariate,No,9,4.21,214,K-Means (CBLOF),0.85,0.1,0.11,0.09,-,-,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,K-Means (CBLOF),0.68,0,0,0,-,-,Unsupervised
+http,Multivariate,No,2211,0.39,567498,K-Means (CBLOF),0.99,0.14,1,0.08,-,-,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,K-Means (CBLOF),0.61,0.14,0.09,0.32,-,-,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,K-Means (CBLOF),0.88,0.25,0.14,1,-,-,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,K-Means (CBLOF),0.5,0.07,0.05,0.19,-,-,Unsupervised
+letter,Multivariate,No,100,6.25,1600,K-Means (CBLOF),,,,,-,-,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,K-Means (CBLOF),0.98,0.71,0.83,0.63,-,-,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,K-Means (CBLOF),0.73,0.24,0.13,0.95,-,-,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,K-Means (CBLOF),0.77,0.19,0.3,0.14,-,-,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,K-Means (CBLOF),0.84,0.34,0.26,0.48,-,-,Unsupervised
+musk,Multivariate,No,97,3.17,3062,K-Means (CBLOF),0.63,0.22,0.28,0.18,-,-,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,K-Means (CBLOF),0.73,0,0.01,0,-,-,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,K-Means (CBLOF),0.93,0.52,0.4,0.75,-,-,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,K-Means (CBLOF),0.9,0.21,0.34,0.15,-,-,Unsupervised
+Pima,Multivariate,No,268,34.9,768,K-Means (CBLOF),0.64,0.14,0.08,0.54,-,-,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,K-Means (CBLOF),0.59,0.23,0.13,0.84,-,-,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,K-Means (CBLOF),1,0.38,0.97,0.24,-,-,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,K-Means (CBLOF),0.71,0.16,0.14,0.19,-,-,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,K-Means (CBLOF),0.56,0,0,0,-,-,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,K-Means (CBLOF),0.94,0.01,0.77,0,-,-,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,K-Means (CBLOF),0.55,0.06,0.04,0.28,-,-,Unsupervised
+speech,Multivariate,No,61,1.65,3686,K-Means (CBLOF),0.47,0.03,0.07,0.02,-,-,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,K-Means (CBLOF),0.72,0.13,0.1,0.18,-,-,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,K-Means (CBLOF),0.98,0.53,0.81,0.4,-,-,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,K-Means (CBLOF),0.42,0,0,0,-,-,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,K-Means (CBLOF),0.9,0.33,0.4,0.27,-,-,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,K-Means (CBLOF),0.7,0.18,0.25,0.14,-,-,Unsupervised
+WBC,Multivariate,No,10,4.48,223,K-Means (CBLOF),0.96,0.45,0.5,0.42,-,-,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,K-Means (CBLOF),0.84,0.14,0.2,0.11,-,-,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,K-Means (CBLOF),0.37,0,0,0,-,-,Unsupervised
+wine,Multivariate,No,10,7.75,129,K-Means (CBLOF),0.92,0.35,0.3,0.43,-,-,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,K-Means (CBLOF),0.5,0.07,0.04,0.2,-,-,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,K-Means (CBLOF),0.44,0.07,0.04,0.25,-,-,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,K-Means (CBLOF),0.72,0.17,0.17,0.17,-,-,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,K-Means (CBLOF),0.87,0.25,0.25,0.25,-,-,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,K-Means (CBLOF),0.73,0.12,0.12,0.12,-,-,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,K-Means (CBLOF),0.94,0.38,0.24,1,-,-,Unsupervised
+SVHN,Multivariate,No,260,5,5208,K-Means (CBLOF),0.6,0.1,0.1,0.1,-,-,Unsupervised
+Agnews,Multivariate,No,500,5,10000,K-Means (CBLOF),0.57,0.07,0.07,0.07,-,-,Unsupervised
+Amazon,Multivariate,No,500,5,10000,K-Means (CBLOF),0.57,0.06,0.06,0.06,-,-,Unsupervised
+Imdb,Multivariate,No,500,5,10000,K-Means (CBLOF),0.49,0.03,0.03,0.03,-,-,Unsupervised
+Yelp,Multivariate,No,500,5,10000,K-Means (CBLOF),0.63,0.11,0.11,0.11,-,-,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,K-Means (CBLOF),0.65,0.08,0.08,0.08,-,-,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,K-Means (CBLOF),,,,,-,-,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,K-Means (CBLOF),,,,,-,-,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,K-Means (CBLOF),,,,,-,-,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,K-Means (CBLOF),,,,,-,-,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,K-Means (CBLOF),,,,,-,-,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,K-Means (CBLOF),,,,,-,-,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,K-Means (CBLOF),,,,,-,-,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,K-Means (CBLOF),,,,,-,-,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,K-Means (CBLOF),,,,,-,-,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,K-Means (CBLOF),,,,,-,-,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,K-Means (CBLOF),,,,,-,-,Unsupervised
+ALOI,Multivariate,No,1508,3.04,49534,K-Means-CBLOF (modified),0.54,0.06,0.08,0.05,-,-,Unsupervised
+annthyroid,Multivariate,No,534,7.42,7200,K-Means-CBLOF (modified),0.65,0.25,0.21,0.31,-,-,Unsupervised
+backdoor,Multivariate,No,2329,2.44,95329,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+breastw,Multivariate,No,239,34.99,683,K-Means-CBLOF (modified),0.7,0.07,0.04,0.26,-,-,Unsupervised
+campaign,Multivariate,No,4640,11.27,41188,K-Means-CBLOF (modified),0.65,0.12,0.08,0.19,-,-,Unsupervised
+cardio,Multivariate,No,176,9.61,1831,K-Means-CBLOF (modified),0.42,0.1,0.08,0.15,-,-,Unsupervised
+Cardiotocography,Multivariate,No,466,22.04,2114,K-Means-CBLOF (modified),0.58,0.18,0.11,0.48,-,-,Unsupervised
+celeba,Multivariate,No,4547,2.24,202599,K-Means-CBLOF (modified),0.59,0.02,0.04,0.02,-,-,Unsupervised
+cover,Multivariate,No,2747,0.96,286048,K-Means-CBLOF (modified),0.83,0.08,0.24,0.05,-,-,Unsupervised
+donors,Multivariate,No,36710,5.93,619326,K-Means-CBLOF (modified),0.76,0.11,0.11,0.13,-,-,Unsupervised
+fault,Multivariate,No,673,34.67,1941,K-Means-CBLOF (modified),0.66,0.15,0.08,0.57,-,-,Unsupervised
+fraud,Multivariate,No,492,0.17,284807,K-Means-CBLOF (modified),0.94,0.06,0.87,0.03,-,-,Unsupervised
+glass,Multivariate,No,9,4.21,214,K-Means-CBLOF (modified),0.77,0.1,0.11,0.09,-,-,Unsupervised
+Hepatitis,Multivariate,No,13,16.25,80,K-Means-CBLOF (modified),0.37,0,0,0,-,-,Unsupervised
+http,Multivariate,No,2211,0.39,567498,K-Means-CBLOF (modified),0.99,0.14,1,0.08,-,-,Unsupervised
+InternetAds,Multivariate,No,368,18.72,1966,K-Means-CBLOF (modified),0.72,0.41,0.26,0.97,-,-,Unsupervised
+Ionosphere,Multivariate,No,126,35.9,351,K-Means-CBLOF (modified),0.94,0.25,0.14,1,-,-,Unsupervised
+landsat,Multivariate,No,1333,20.71,6435,K-Means-CBLOF (modified),0.59,0.1,0.06,0.26,-,-,Unsupervised
+letter,Multivariate,No,100,6.25,1600,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+Lymphography,Multivariate,No,6,4.05,148,K-Means-CBLOF (modified),0.69,0.29,0.33,0.25,-,-,Unsupervised
+magic.gamma,Multivariate,No,260,1.37,19020,K-Means-CBLOF (modified),0.78,0.21,0.12,0.86,-,-,Unsupervised
+mammography,Multivariate,No,260,2.32,11183,K-Means-CBLOF (modified),0.78,0.19,0.3,0.14,-,-,Unsupervised
+mnist,Multivariate,No,700,9.21,7603,K-Means-CBLOF (modified),0.8,0.3,0.23,0.43,-,-,Unsupervised
+musk,Multivariate,No,97,3.17,3062,K-Means-CBLOF (modified),0.26,0,0,0,-,-,Unsupervised
+optdigits,Multivariate,No,150,2.88,5216,K-Means-CBLOF (modified),0.73,0.29,0.39,0.23,-,-,Unsupervised
+PageBlocks,Multivariate,No,510,9.46,5393,K-Means-CBLOF (modified),0.73,0.14,0.11,0.2,-,-,Unsupervised
+pendigits,Multivariate,No,156,2.27,6870,K-Means-CBLOF (modified),0.95,0.24,0.39,0.18,-,-,Unsupervised
+Pima,Multivariate,No,268,34.9,768,K-Means-CBLOF (modified),0.52,0.14,0.08,0.56,-,-,Unsupervised
+satellite,Multivariate,No,2036,31.64,6435,K-Means-CBLOF (modified),0.38,0.05,0.03,0.2,-,-,Unsupervised
+satimage-2,Multivariate,No,71,1.22,5803,K-Means-CBLOF (modified),0.1,0.03,0.07,0.02,-,-,Unsupervised
+shuttle,Multivariate,No,3511,7.15,49097,K-Means-CBLOF (modified),0.99,0.74,0.63,0.9,-,-,Unsupervised
+skin,Multivariate,No,50859,20.75,245057,K-Means-CBLOF (modified),0.62,0,0,0,-,-,Unsupervised
+smtp,Multivariate,No,30,0.03,95156,K-Means-CBLOF (modified),0.84,0.01,0.7,0,-,-,Unsupervised
+SpamBase,Multivariate,No,1679,39.91,4207,K-Means-CBLOF (modified),0.4,0.12,0.07,0.53,-,-,Unsupervised
+speech,Multivariate,No,61,1.65,3686,K-Means-CBLOF (modified),0.47,0.04,0.08,0.03,-,-,Unsupervised
+Stamps,Multivariate,No,31,9.12,340,K-Means-CBLOF (modified),0.82,0.13,0.1,0.18,-,-,Unsupervised
+thyroid,Multivariate,No,93,2.47,3772,K-Means-CBLOF (modified),0.95,0.38,0.58,0.29,-,-,Unsupervised
+vertebral,Multivariate,No,30,12.5,240,K-Means-CBLOF (modified),0.6,0,0,0,-,-,Unsupervised
+vowels,Multivariate,No,50,3.43,1456,K-Means-CBLOF (modified),0.92,0.36,0.44,0.3,-,-,Unsupervised
+Waveform,Multivariate,No,100,2.9,3443,K-Means-CBLOF (modified),0.65,0.15,0.2,0.12,-,-,Unsupervised
+WBC,Multivariate,No,10,4.48,223,K-Means-CBLOF (modified),0.19,0,0,0,-,-,Unsupervised
+WDBC,Multivariate,No,10,2.72,367,K-Means-CBLOF (modified),0.98,0.62,0.9,0.47,-,-,Unsupervised
+Wilt,Multivariate,No,257,5.33,4819,K-Means-CBLOF (modified),0.51,0.02,0.02,0.02,-,-,Unsupervised
+wine,Multivariate,No,10,7.75,129,K-Means-CBLOF (modified),0.3,0,0,0,-,-,Unsupervised
+WPBC,Multivariate,No,47,23.74,198,K-Means-CBLOF (modified),0.5,0.04,0.02,0.1,-,-,Unsupervised
+yeast,Multivariate,No,507,34.16,1484,K-Means-CBLOF (modified),0.42,0.05,0.03,0.2,-,-,Unsupervised
+CIFAR10,Multivariate,No,263,5,5263,K-Means-CBLOF (modified),0.68,0.16,0.16,0.16,-,-,Unsupervised
+FashionMNIST,Multivariate,No,315,5,6315,K-Means-CBLOF (modified),0.88,0.35,0.35,0.34,-,-,Unsupervised
+MNIST-C,Multivariate,No,500,5,10000,K-Means-CBLOF (modified),0.78,0.18,0.18,0.18,-,-,Unsupervised
+MVTec-AD,Multivariate,No,63,21.5,292,K-Means-CBLOF (modified),0.85,0.38,0.24,1,-,-,Unsupervised
+SVHN,Multivariate,No,260,5,5208,K-Means-CBLOF (modified),0.62,0.1,0.1,0.1,-,-,Unsupervised
+Agnews,Multivariate,No,500,5,10000,K-Means-CBLOF (modified),0.55,0.06,0.06,0.06,-,-,Unsupervised
+Amazon,Multivariate,No,500,5,10000,K-Means-CBLOF (modified),0.57,0.06,0.06,0.06,-,-,Unsupervised
+Imdb,Multivariate,No,500,5,10000,K-Means-CBLOF (modified),0.5,0.03,0.03,0.03,-,-,Unsupervised
+Yelp,Multivariate,No,500,5,10000,K-Means-CBLOF (modified),0.6,0.08,0.08,0.08,-,-,Unsupervised
+20newsgroups,Multivariate,No,155,5,3090,K-Means-CBLOF (modified),0.64,0.08,0.08,0.08,-,-,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+ecoli,Multivariate,No,9,2.68,336,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+cmc,Multivariate,No,17,1.15,1473,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+lympho h,Multivariate,No,6,4.05,148,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+wbc h,Multivariate,No,21,5.56,378,K-Means-CBLOF (modified),,,,,-,-,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,K-Means (CBLOF),1,0.02,1,0.01,-,-,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,K-Means (CBLOF),1,0.03,1,0.02,-,-,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,K-Means (CBLOF),1,0.02,1,0.01,-,-,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,K-Means (CBLOF),0.99,0.12,1,0.07,-,-,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,K-Means (CBLOF),1,0.03,1,0.01,-,-,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,K-Means (CBLOF),0.68,0.03,0.67,0.02,-,-,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,K-Means (CBLOF),1,0.02,1,0.01,-,-,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,K-Means (CBLOF),1,0.04,1,0.02,-,-,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,K-Means (CBLOF),0.5,0.01,0.5,0,-,-,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,K-Means (CBLOF),1,0.03,1,0.01,-,-,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,K-Means (CBLOF),1,0.32,1,0.19,-,-,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,K-Means (CBLOF),1,0.28,1,0.16,-,-,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,K-Means (CBLOF),1,0.23,1,0.13,-,-,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,K-Means (CBLOF),1,0.05,1,0.03,-,-,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,K-Means (CBLOF),0.57,0.09,0.5,0.05,-,-,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,K-Means (CBLOF),0.92,0.17,0.88,0.09,-,-,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,K-Means (CBLOF),0.62,0.07,0.33,0.04,-,-,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,K-Means (CBLOF),1,0.11,1,0.06,-,-,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,K-Means (CBLOF),0.63,0.08,0.36,0.05,-,-,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,K-Means (CBLOF),0.5,0.04,0.2,0.02,-,-,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,K-Means (CBLOF),1,0.17,1,0.1,-,-,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,K-Means (CBLOF),1,0.29,1,0.17,-,-,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,K-Means (CBLOF),1,0.39,1,0.24,-,-,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,K-Means (CBLOF),0.97,0.35,0.94,0.22,-,-,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,K-Means (CBLOF),0.78,0.24,0.58,0.15,-,-,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,K-Means (CBLOF),0.35,0.09,0.29,0.06,-,-,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,K-Means (CBLOF),0.69,0.13,0.33,0.08,-,-,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,K-Means (CBLOF),0.52,0.06,0.15,0.04,-,-,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,K-Means (CBLOF),0.96,0.31,0.89,0.19,-,-,Unsupervised
+yahoo1,Univariate,yes,2,0.14,1420,K-Means-CBLOF (modified),1,0.02,1,0.01,-,-,Unsupervised
+yahoo2,Univariate,yes,8,0.55,1461,K-Means-CBLOF (modified),1,0.03,1,0.02,-,-,Unsupervised
+yahoo3,Univariate,yes,8,0.56,1439,K-Means-CBLOF (modified),1,0.02,1,0.01,-,-,Unsupervised
+yahoo5,Univariate,yes,9,0.63,1421,K-Means-CBLOF (modified),0.95,0.07,0.5,0.04,-,-,Unsupervised
+yahoo6,Univariate,yes,4,0.28,1421,K-Means-CBLOF (modified),1,0.03,1,0.02,-,-,Unsupervised
+yahoo7,Univariate,yes,11,0.65,1680,K-Means-CBLOF (modified),0.68,0.03,0.67,0.02,-,-,Unsupervised
+yahoo8,Univariate,yes,10,0.6,1680,K-Means-CBLOF (modified),1,0.02,1,0.01,-,-,Unsupervised
+yahoo9,Univariate,yes,8,0.48,1680,K-Means-CBLOF (modified),1,0.04,1,0.02,-,-,Unsupervised
+Speed 6005,Univariate,yes,1,0.04,2500,K-Means-CBLOF (modified),1,0.03,1,0.02,-,-,Unsupervised
+Speed 7578,Univariate,yes,4,0.35,1127,K-Means-CBLOF (modified),1,0.03,1,0.01,-,-,Unsupervised
+Speed t4013,Univariate,yes,2,0.08,2495,K-Means-CBLOF (modified),1,0.32,1,0.19,-,-,Unsupervised
+TravelTime 387,Univariate,yes,3,0.12,2500,K-Means-CBLOF (modified),1,0.28,1,0.16,-,-,Unsupervised
+TravelTime 451,Univariate,yes,1,0.05,2162,K-Means-CBLOF (modified),1,0.24,1,0.13,-,-,Unsupervised
+Occupancy 6005,Univariate,yes,1,0.04,2380,K-Means-CBLOF (modified),1,0.05,1,0.03,-,-,Unsupervised
+Occupancy t4013,Univariate,yes,2,0.08,2500,K-Means-CBLOF (modified),1,0.2,1,0.11,-,-,Unsupervised
+yahoo syn1,Univariate,yes,12,0.85,1420,K-Means-CBLOF (modified),0.95,0.18,0.88,0.1,-,-,Unsupervised
+yahoo syn2,Univariate,yes,18,1.23,1461,K-Means-CBLOF (modified),0.42,0.07,0.33,0.04,-,-,Unsupervised
+yahoo syn3,Univariate,yes,18,1.24,1449,K-Means-CBLOF (modified),1,0.11,1,0.06,-,-,Unsupervised
+yahoo syn5,Univariate,yes,19,1.33,1431,K-Means-CBLOF (modified),0.58,0.08,0.36,0.05,-,-,Unsupervised
+yahoo syn6,Univariate,yes,14,0.98,1431,K-Means-CBLOF (modified),0.55,0.04,0.2,0.02,-,-,Unsupervised
+yahoo syn7,Univariate,yes,21,1.24,1690,K-Means-CBLOF (modified),1,0.17,1,0.1,-,-,Unsupervised
+yahoo syn8,Univariate,yes,20,1.18,1690,K-Means-CBLOF (modified),1,0.29,1,0.17,-,-,Unsupervised
+yahoo syn9,Univariate,yes,18,1.07,1690,K-Means-CBLOF (modified),1,0.39,1,0.24,-,-,Unsupervised
+aws1,Univariate,yes,1,0.1,1049,K-Means-CBLOF (modified),0.98,0.37,0.94,0.23,-,-,Unsupervised
+aws2,Univariate,yes,2,0.08,2486,K-Means-CBLOF (modified),0.68,0.24,0.58,0.15,-,-,Unsupervised
+aws3,Univariate,yes,1,0.07,1499,K-Means-CBLOF (modified),0.38,0.09,0.29,0.06,-,-,Unsupervised
+aws syn1,Univariate,yes,10,1.05,1049,K-Means-CBLOF (modified),0.64,0.09,0.24,0.06,-,-,Unsupervised
+aws syn2,Univariate,yes,20,0.88,2486,K-Means-CBLOF (modified),0.54,0.06,0.15,0.04,-,-,Unsupervised
+aws syn3,Univariate,yes,10,0.73,1499,K-Means-CBLOF (modified),1,0.35,1,0.21,-,-,Unsupervised
+ALOI,Multivariate,no,1508,3.04,49534,ICL,0.505745,0.168788,0.632612,0.097386,,,Unsupervised
+annthyroid,Multivariate,no,534,7.42,7200,ICL,0.772588,0.502674,0.448473,0.571776,,,Unsupervised
+backdoor,Multivariate,no,2329,2.44,95329,ICL,,,,,,,Unsupervised
+breastw,Multivariate,no,239,34.99,683,ICL,0.989806,0.775194,0.638298,0.986842,,,Unsupervised
+campaign,Multivariate,no,4640,11.27,41188,ICL,0.809746,0.622437,0.694151,0.564153,,,Unsupervised
+cardio,Multivariate,no,176,9.61,1831,ICL,0.740026,0.463855,0.885057,0.314286,,,Unsupervised
+Cardiotocography,Multivariate,no,466,22.04,2114,ICL,0.422652,0.471954,0.532751,0.423611,,,Unsupervised
+celeba,Multivariate,no,4547,2.24,202599,ICL,0.457256,0.113874,0.113529,0.114221,,,Unsupervised
+cover,Multivariate,no,2747,0.96,286048,ICL,0.555581,0.068065,0.463795,0.036728,,,Unsupervised
+donors,Multivariate,no,36710,5.93,619326,ICL,0.659425,0.387107,0.579358,0.290657,,,Unsupervised
+fault,Multivariate,no,673,34.67,1941,ICL,0.5365,0.0753,0.0393,0.8667,,,Unsupervised
+fraud,Multivariate,no,492,0.17,284807,ICL,0.3845,0.0107,0.5806,0.0054,,,Unsupervised
+glass,Multivariate,no,9,4.21,214,ICL,0.9171,0,0,0,,,Unsupervised
+Hepatitis,Multivariate,no,13,16.25,80,ICL,0.3723,0.3529,0.5455,0.2609,,,Unsupervised
+http,Multivariate,no,2211,0.39,567498,ICL,0.5114,0.0344,0.0175,0.9048,,,Unsupervised
+InternetAds,Multivariate,no,368,18.72,1966,ICL,0.6845,0.6098,0.9779,0.4431,,,Unsupervised
+Ionosphere,Multivariate,no,126,35.9,351,ICL,0.9616,0.2897,0.1694,1,,,Unsupervised
+landsat,Multivariate,no,1333,20.71,6435,ICL,0.7506,0.6766,0.6771,0.6761,,,Unsupervised
+letter,Multivariate,no,100,6.25,1600,ICL,,,,,,,Unsupervised
+Lymphography,Multivariate,no,6,4.05,148,ICL,0.976744,0.666667,0.75,0.6,,,Unsupervised
+magic.gamma,Multivariate,no,260,1.37,19020,ICL,0.764446,0.653161,0.51144,0.90353,,,Unsupervised
+mammography,Multivariate,no,260,2.32,11183,ICL,0.602221,0.247525,0.195313,0.337838,,,Unsupervised
+mnist,Multivariate,no,700,9.21,7603,ICL,0.783916,0.595322,0.612245,0.57931,,,Unsupervised
+musk,Multivariate,no,97,3.17,3062,ICL,0.964814,0.061224,0.031579,1,,,Unsupervised
+optdigits,Multivariate,no,150,2.88,5216,ICL,0.868601,0.397887,0.763514,0.269048,,,Unsupervised
+PageBlocks,Multivariate,no,510,9.46,5393,ICL,0.791885,0.47053,0.958,0.311849,,,Unsupervised
+pendigits,Multivariate,no,156,2.27,6870,ICL,0.880574,0.45,0.409091,0.5,,,Unsupervised
+Pima,Multivariate,no,268,34.9,768,ICL,0.640556,0.388571,0.257576,0.790698,,,Unsupervised
+satellite,Multivariate,no,2036,31.64,6435,ICL,0.849972,0.779467,0.680862,0.911469,,,Unsupervised
+satimage-2,Multivariate,no,71,1.22,5803,ICL,0.985153,0.816,0.73913,0.910714,,,Unsupervised
+shuttle,Multivariate,no,3511,7.15,49097,ICL,0.708037,0.405258,0.703284,0.284639,,,Unsupervised
+skin,Multivariate,no,50859,20.75,245057,ICL,0.492534,0,0,0,,,Unsupervised
+smtp,Multivariate,no,30,0.03,95156,ICL,0.499404,0,0,0,,,Unsupervised
+SpamBase,Multivariate,no,1679,39.91,4207,ICL,0.788338,0.811339,0.782028,0.842932,,,Unsupervised
+speech,Multivariate,no,61,1.65,3686,ICL,0.439712,0.095486,0.932203,0.05032,,,Unsupervised
+Stamps,Multivariate,no,31,9.12,340,ICL,0.684153,0.24,0.206897,0.285714,,,Unsupervised
+thyroid,Multivariate,no,93,2.47,3772,ICL,0.923654,0.369021,0.89011,0.232759,,,Unsupervised
+vertebral,Multivariate,no,30,12.5,240,ICL,0.316893,0.414414,0.821429,0.277108,,,Unsupervised
+vowels,Multivariate,no,50,3.43,1456,ICL,0.565751,0.198113,0.875,0.111702,,,Unsupervised
+Waveform,Multivariate,no,100,2.9,3443,ICL,0.57585,0.148061,0.642857,0.083665,,,Unsupervised
+WBC,Multivariate,no,10,4.48,223,ICL,0.867308,0.390244,1,0.242424,,,Unsupervised
+WDBC,Multivariate,no,10,2.72,367,ICL,0.836806,0.333333,0.25,0.5,,,Unsupervised
+Wilt,Multivariate,no,257,5.33,4819,ICL,0.78255,0.37884,0.87747,0.241567,,,Unsupervised
+wine,Multivariate,no,10,7.75,129,ICL,0.47973,0,0,0,,,Unsupervised
+WPBC,Multivariate,no,47,23.74,198,ICL,0.57343,0.576271,0.755556,0.465753,,,Unsupervised
+yeast,Multivariate,no,507,34.16,1484,ICL,0.524412,0.591058,0.545272,0.645238,,,Unsupervised
+CIFAR10,Multivariate,no,263,5,5263,ICL,0.629874,0.255973,0.289575,0.229358,,,Unsupervised
+FashionMNIST,Multivariate,no,315,5,6315,ICL,0.847589,0.527536,0.588997,0.47769,,,Unsupervised
+MNIST-C,Multivariate,no,500,5,10000,ICL,0.846199,0.489237,0.765306,0.35954,,,Unsupervised
+MVTec-AD,Multivariate,no,63,21.5,292,ICL,0.958782,0.803922,0.672131,1,,,Unsupervised
+SVHN,Multivariate,no,260,5,5208,ICL,0.660311,0.189112,0.128906,0.354839,,,Unsupervised
+Agnews,Multivariate,no,500,5,10000,ICL,0.588731,0.201485,0.193878,0.209713,,,Unsupervised
+Amazon,Multivariate,no,500,5,10000,ICL,0.528102,0.258609,0.781633,0.154935,,,Unsupervised
+Imdb,Multivariate,no,500,5,10000,ICL,0.541714,0.047619,0.028571,0.142857,,,Unsupervised
+Yelp,Multivariate,no,500,5,10000,ICL,0.512509,0.254237,0.765306,0.152439,,,Unsupervised
+20newsgroups,Multivariate,no,155,5,3090,ICL,0.650443,0.211009,0.151316,0.348485,,,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,ICL,,,,,,,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,ICL,,,,,,,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,ICL,,,,,,,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,ICL,,,,,,,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,ICL,,,,,,,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,ICL,,,,,,,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,ICL,,,,,,,Unsupervised
+ecoli,Multivariate,no,9,2.68,336,ICL,,,,,,,Unsupervised
+cmc,Multivariate,no,17,1.15,1473,ICL,,,,,,,Unsupervised
+lympho h,Multivariate,no,6,4.05,148,ICL,,,,,,,Unsupervised
+wbc h,Multivariate,no,21,5.56,378,ICL,,,,,,,Unsupervised
+ALOI,Multivariate,no,1508,3.04,49534,SLAD,0.543602,0.177551,0.778078,0.100209,,,Unsupervised
+annthyroid,Multivariate,no,534,7.42,7200,SLAD,0.751065,0.42503,0.343511,0.557276,,,Unsupervised
+backdoor,Multivariate,no,2329,2.44,95329,SLAD,,,,,,,Unsupervised
+breastw,Multivariate,no,239,34.99,683,SLAD,0.986853,0.940397,0.906383,0.977064,,,Unsupervised
+campaign,Multivariate,no,4640,11.27,41188,SLAD,0.762829,0.563016,0.771548,0.443223,,,Unsupervised
+cardio,Multivariate,no,176,9.61,1831,SLAD,0.720403,0.388889,0.241379,1,,,Unsupervised
+Cardiotocography,Multivariate,no,466,22.04,2114,SLAD,0.397107,0.496215,0.644105,0.403557,,,Unsupervised
+celeba,Multivariate,no,4547,2.24,202599,SLAD,0.600876,0.143259,0.371775,0.088723,,,Unsupervised
+cover,Multivariate,no,2747,0.96,286048,SLAD,0.787409,0.141491,0.653918,0.079328,,,Unsupervised
+donors,Multivariate,no,36710,5.93,619326,SLAD,0.939596268,0.802484539,0.83136,0.775548,,,Unsupervised
+fault,Multivariate,no,673,34.67,1941,SLAD,0.5821,0,0,0,,,Unsupervised
+fraud,Multivariate,no,492,0.17,284807,SLAD,0.9348,0.4598,0.7789,0.3261,,,Unsupervised
+glass,Multivariate,no,9,4.21,214,SLAD,0.7419,0,0,0,,,Unsupervised
+Hepatitis,Multivariate,no,13,16.25,80,SLAD,0.757576,0.536585,1,0.366667,,,Unsupervised
+http,Multivariate,no,2211,0.39,567498,SLAD,0.998713,0.941829,0.978772,0.907574,,,Unsupervised
+InternetAds,Multivariate,no,368,18.72,1966,SLAD,0.744863,0.268235,0.157459,0.904762,,,Unsupervised
+Ionosphere,Multivariate,no,126,35.9,351,SLAD,0.957187,0.652174,0.483871,1,,,Unsupervised
+landsat,Multivariate,no,1333,20.71,6435,SLAD,0.747057,0.600086,0.535578,0.682261,,,Unsupervised
+letter,Multivariate,no,100,6.25,1600,SLAD,,,,,,,Unsupervised
+Lymphography,Multivariate,no,6,4.05,148,SLAD,1,0.857143,0.75,1,,,Unsupervised
+magic.gamma,Multivariate,no,260,1.37,19020,SLAD,0.718454,0.698243,0.627364,0.787177,,,Unsupervised
+mammography,Multivariate,no,260,2.32,11183,SLAD,0.61897,0.184902,0.425781,0.118093,,,Unsupervised
+mnist,Multivariate,no,700,9.21,7603,SLAD,0.88801,0.699411,0.778426,0.634958,,,Unsupervised
+musk,Multivariate,no,97,3.17,3062,SLAD,1,0.671329,0.505263,1,,,Unsupervised
+optdigits,Multivariate,no,150,2.88,5216,SLAD,0.889155,0.408163,0.540541,0.327869,,,Unsupervised
+PageBlocks,Multivariate,no,510,9.46,5393,SLAD,0.720888,0.442187,0.914,0.29164,,,Unsupervised
+pendigits,Multivariate,no,156,2.27,6870,SLAD,0.91289,0.329588,0.285714,0.389381,,,Unsupervised
+Pima,Multivariate,no,268,34.9,768,SLAD,0.555253,0.49635,0.386364,0.693878,,,Unsupervised
+satellite,Multivariate,no,2036,31.64,6435,SLAD,0.851503,0.805234,0.801603,0.808898,,,Unsupervised
+satimage-2,Multivariate,no,71,1.22,5803,SLAD,0.999317,0.924242,0.884058,0.968254,,,Unsupervised
+shuttle,Multivariate,no,3511,7.15,49097,SLAD,0.997754,0.977133,0.968614,0.985803,,,Unsupervised
+skin,Multivariate,no,50859,20.75,245057,SLAD,0.907471,0.778723,0.991874,0.640978,,,Unsupervised
+smtp,Multivariate,no,30,0.03,95156,SLAD,0.889807,0.368421,0.25,0.7,,,Unsupervised
+SpamBase,Multivariate,no,1679,39.91,4207,SLAD,0.780295,0.851778,0.908925,0.801392,,,Unsupervised
+speech,Multivariate,no,61,1.65,3686,SLAD,0.407395,0.084729,0.728814,0.044979,,,Unsupervised
+Stamps,Multivariate,no,31,9.12,340,SLAD,0.536317,0,0,0,,,Unsupervised
+thyroid,Multivariate,no,93,2.47,3772,SLAD,0.883725,0.2656,0.912088,0.155431,,,Unsupervised
+vertebral,Multivariate,no,30,12.5,240,SLAD,0.268141,0.235294,0.285714,0.2,,,Unsupervised
+vowels,Multivariate,no,50,3.43,1456,SLAD,0.665386,0.226804,0.916667,0.129412,,,Unsupervised
+Waveform,Multivariate,no,100,2.9,3443,SLAD,0.512267,0.165517,0.979592,0.090395,,,Unsupervised
+WBC,Multivariate,no,10,4.48,223,SLAD,0.926923,0.769231,0.625,1,,,Unsupervised
+WDBC,Multivariate,no,10,2.72,367,SLAD,0.989583,0.64,1,0.470588,,,Unsupervised
+Wilt,Multivariate,no,257,5.33,4819,SLAD,0.615535,0.316344,0.711462,0.20339,,,Unsupervised
+wine,Multivariate,no,10,7.75,129,SLAD,0.175676,0,0,0,,,Unsupervised
+WPBC,Multivariate,no,47,23.74,198,SLAD,0.479227,0,0,0,,,Unsupervised
+yeast,Multivariate,no,507,34.16,1484,SLAD,0.501246,0.582441,0.547284,0.622426,,,Unsupervised
+CIFAR10,Multivariate,no,263,5,5263,SLAD,0.689977,0.287805,0.911197,0.170891,,,Unsupervised
+FashionMNIST,Multivariate,no,315,5,6315,SLAD,0.893477,0.579521,0.860841,0.436782,,,Unsupervised
+MNIST-C,Multivariate,no,500,5,10000,SLAD,0.791443,0.45429,0.659184,0.346567,,,Unsupervised
+MVTec-AD,Multivariate,no,63,21.5,292,SLAD,0.970258,0.394737,0.245902,1,,,Unsupervised
+SVHN,Multivariate,no,260,5,5208,SLAD,0.634374,0.198582,0.164063,0.251497,,,Unsupervised
+Agnews,Multivariate,no,500,5,10000,SLAD,0.588511,0.279443,0.67551,0.176158,,,Unsupervised
+Amazon,Multivariate,no,500,5,10000,SLAD,0.509667,0.239812,0.62449,0.1484,,,Unsupervised
+Imdb,Multivariate,no,500,5,10000,SLAD,0.516716,0.248516,0.640816,0.154148,,,Unsupervised
+Yelp,Multivariate,no,500,5,10000,SLAD,0.542304,0.275641,0.877551,0.163498,,,Unsupervised
+20newsgroups,Multivariate,no,155,5,3090,SLAD,0.619025,0.245431,0.309211,0.203463,,,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,SLAD,,,,,,,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,SLAD,,,,,,,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,SLAD,,,,,,,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,SLAD,,,,,,,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,SLAD,,,,,,,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,SLAD,,,,,,,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,SLAD,,,,,,,Unsupervised
+ecoli,Multivariate,no,9,2.68,336,SLAD,,,,,,,Unsupervised
+cmc,Multivariate,no,17,1.15,1473,SLAD,,,,,,,Unsupervised
+lympho h,Multivariate,no,6,4.05,148,SLAD,,,,,,,Unsupervised
+wbc h,Multivariate,no,21,5.56,378,SLAD,,,,,,,Unsupervised
+ALOI,Multivariate,no,1508,3.04,49534,NeuTraL-AD,0.58052,0.09009,0.089523,0.090665,,,Unsupervised
+annthyroid,Multivariate,no,534,7.42,7200,NeuTraL-AD,0.872806,0.524345,0.524345,0.524345,,,Unsupervised
+backdoor,Multivariate,no,2329,2.44,95329,NeuTraL-AD,,,,,,,Unsupervised
+breastw,Multivariate,no,239,34.99,683,NeuTraL-AD,0.851144,0.790795,0.790795,0.790795,,,Unsupervised
+campaign,Multivariate,no,4640,11.27,41188,NeuTraL-AD,0.6919,0.4511,0.4498,0.4525,,,Unsupervised
+cardio,Multivariate,no,176,9.61,1831,NeuTraL-AD,0.7271,0.4181,0.4181,0.4181,,,Unsupervised
+Cardiotocography,Multivariate,no,466,22.04,2114,NeuTraL-AD,0.752,0.5794,0.5794,0.5794,,,Unsupervised
+celeba,Multivariate,no,4547,2.24,202599,NeuTraL-AD,0.621534,0.07338,0.073235,0.073526,,,Unsupervised
+cover,Multivariate,no,2747,0.96,286048,NeuTraL-AD,0.95311,0.40102,0.400655,0.401385,,,Unsupervised
+donors,Multivariate,no,36710,5.93,619326,NeuTraL-AD,1,0.9994,0.9992,0.9995,,,Unsupervised
+fault,Multivariate,no,673,34.67,1941,NeuTraL-AD,0.5925,0.5646,0.5646,0.5646,,,Unsupervised
+fraud,Multivariate,no,492,0.17,284807,NeuTraL-AD,0.8842,0.2424,0.2414,0.2434,,,Unsupervised
+glass,Multivariate,no,9,4.21,214,NeuTraL-AD,0.8186,0.2,0.2,0.2,,,Unsupervised
+Hepatitis,Multivariate,no,13,16.25,80,NeuTraL-AD,0.6039,0.4286,0.4286,0.4286,,,Unsupervised
+http,Multivariate,no,2211,0.39,567498,NeuTraL-AD,0.998701,0.050965,0.029837,0.174603,,,Unsupervised
+InternetAds,Multivariate,no,368,18.72,1966,NeuTraL-AD,0.743133,0.559783,0.559783,0.559783,,,Unsupervised
+Ionosphere,Multivariate,no,126,35.9,351,NeuTraL-AD,0.9112,0.811,0.811,0.811,,,Unsupervised
+landsat,Multivariate,no,1333,20.71,6435,NeuTraL-AD,0.6563,0.4456,0.4456,0.4456,,,Unsupervised
+letter,Multivariate,no,100,6.25,1600,NeuTraL-AD,,,,,,,Unsupervised
+Lymphography,Multivariate,no,6,4.05,148,NeuTraL-AD,0.946009,0.333333,0.333333,0.333333,,,Unsupervised
+magic.gamma,Multivariate,no,260,1.37,19020,NeuTraL-AD,0.7644,0.6969,0.6969,0.6969,,,Unsupervised
+mammography,Multivariate,no,260,2.32,11183,NeuTraL-AD,0.655,0.0996,0.0996,0.0996,,,Unsupervised
+mnist,Multivariate,no,700,9.21,7603,NeuTraL-AD,0.975597,0.827389,0.827389,0.827389,,,Unsupervised
+musk,Multivariate,no,97,3.17,3062,NeuTraL-AD,0.9972,0.9898,0.9898,0.9898,,,Unsupervised
+optdigits,Multivariate,no,150,2.88,5216,NeuTraL-AD,0.6389,0.1,0.1,0.1,,,Unsupervised
+PageBlocks,Multivariate,no,510,9.46,5393,NeuTraL-AD,0.959,0.7476,0.7476,0.7476,,,Unsupervised
+pendigits,Multivariate,no,156,2.27,6870,NeuTraL-AD,0.9772,0.5449,0.5449,0.5449,,,Unsupervised
+Pima,Multivariate,no,268,34.9,768,NeuTraL-AD,0.5581,0.5448,0.5448,0.5448,,,Unsupervised
+satellite,Multivariate,no,2036,31.64,6435,NeuTraL-AD,0.805,0.729,0.729,0.729,,,Unsupervised
+satimage-2,Multivariate,no,71,1.22,5803,NeuTraL-AD,0.9983,0.8732,0.8732,0.8732,,,Unsupervised
+shuttle,Multivariate,no,3511,7.15,49097,NeuTraL-AD,0.997985,0.977499,0.977499,0.977499,,,Unsupervised
+skin,Multivariate,no,50859,20.75,245057,NeuTraL-AD,0.866186,0.701909,0.701882,0.701937,,,Unsupervised
+smtp,Multivariate,no,30,0.03,95156,NeuTraL-AD,0.893228,0.666667,0.666667,0.666667,,,Unsupervised
+SpamBase,Multivariate,no,1679,39.91,4207,NeuTraL-AD,0.380105,0.510423,0.510423,0.510423,,,Unsupervised
+speech,Multivariate,no,61,1.65,3686,NeuTraL-AD,0.443513,0.032258,0.032258,0.032258,,,Unsupervised
+Stamps,Multivariate,no,31,9.12,340,NeuTraL-AD,0.910511,0.53125,0.53125,0.53125,,,Unsupervised
+thyroid,Multivariate,no,93,2.47,3772,NeuTraL-AD,0.969621,0.723404,0.723404,0.723404,,,Unsupervised
+vertebral,Multivariate,no,30,12.5,240,NeuTraL-AD,0.297937,0.133333,0.133333,0.133333,,,Unsupervised
+vowels,Multivariate,no,50,3.43,1456,NeuTraL-AD,0.777895,0.18,0.18,0.18,,,Unsupervised
+Waveform,Multivariate,no,100,2.9,3443,NeuTraL-AD,0.655234,0.188119,0.188119,0.188119,,,Unsupervised
+WBC,Multivariate,no,10,4.48,223,NeuTraL-AD,0.632075,0,0,0,,,Unsupervised
+WDBC,Multivariate,no,10,2.72,367,NeuTraL-AD,0.994893,0.818182,0.818182,0.818182,,,Unsupervised
+Wilt,Multivariate,no,257,5.33,4819,NeuTraL-AD,0.851458,0.307393,0.307393,0.307393,,,Unsupervised
+wine,Multivariate,no,10,7.75,129,NeuTraL-AD,0.916795,0.818182,0.818182,0.818182,,,Unsupervised
+WPBC,Multivariate,no,47,23.74,198,NeuTraL-AD,0.433611,0.291667,0.291667,0.291667,,,Unsupervised
+yeast,Multivariate,no,507,34.16,1484,NeuTraL-AD,0.514481,0.525591,0.525591,0.525591,,,Unsupervised
+CIFAR10,Multivariate,no,263,5,5263,NeuTraL-AD,0.731144,0.334601,0.334601,0.334601,,,Unsupervised
+FashionMNIST,Multivariate,no,315,5,6315,NeuTraL-AD,0.916192,0.606349,0.606349,0.606349,,,Unsupervised
+MNIST-C,Multivariate,no,500,5,10000,NeuTraL-AD,0.864863,0.452,0.452,0.452,,,Unsupervised
+MVTec-AD,Multivariate,no,63,21.5,292,NeuTraL-AD,0.953262,0.890625,0.890625,0.890625,,,Unsupervised
+SVHN,Multivariate,no,260,5,5208,NeuTraL-AD,0.720241,0.227799,0.226923,0.228682,,,Unsupervised
+Agnews,Multivariate,no,500,5,10000,NeuTraL-AD,0.570205,0.178,0.178,0.178,,,Unsupervised
+Amazon,Multivariate,no,500,5,10000,NeuTraL-AD,0.562946,0.1001,0.1,0.1002,,,Unsupervised
+Imdb,Multivariate,no,500,5,10000,NeuTraL-AD,0.512403,0.088,0.088,0.088,,,Unsupervised
+Yelp,Multivariate,no,500,5,10000,NeuTraL-AD,0.560532,0.158,0.158,0.158,,,Unsupervised
+20newsgroups,Multivariate,no,155,5,3090,NeuTraL-AD,0.685494,0.220779,0.220779,0.220779,,,Unsupervised
+BATADAL 04,Multivariate,yes,219,5.24,4177,NeuTraL-AD,,,,,,,Unsupervised
+SWaT 1,Multivariate,yes,4466,8.86,50400,NeuTraL-AD,,,,,,,Unsupervised
+SWaT 2,Multivariate,yes,4216,4.88,86400,NeuTraL-AD,,,,,,,Unsupervised
+SWaT 3,Multivariate,yes,3075,3.56,86400,NeuTraL-AD,,,,,,,Unsupervised
+SWaT 4,Multivariate,yes,37559,43.51,86319,NeuTraL-AD,,,,,,,Unsupervised
+SWaT 5,Multivariate,yes,2167,2.51,86400,NeuTraL-AD,,,,,,,Unsupervised
+SWaT 6,Multivariate,yes,3138,5.81,54000,NeuTraL-AD,,,,,,,Unsupervised
+ecoli,Multivariate,no,9,2.68,336,NeuTraL-AD,0.825767,0.5,0.5,0.5,,,Unsupervised
+cmc,Multivariate,no,17,1.15,1473,NeuTraL-AD,0.578135,0.058824,0.058824,0.058824,,,Unsupervised
+lympho h,Multivariate,no,6,4.05,148,NeuTraL-AD,0.974178,0.833333,0.833333,0.833333,,,Unsupervised
+wbc h,Multivariate,no,21,5.56,378,NeuTraL-AD,0.778856,0.409091,0.409091,0.409091,,,Unsupervised
